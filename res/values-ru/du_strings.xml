@@ -124,4 +124,8 @@
   <string name="menu_search">Поиск приложений</string>
   <string name="menu_search_hint">Поиск приложений\u2026</string>
   <string name="custom_ambient_display_summary">Дополнительная настройка Ambient Display</string>
+  <!-- DU building environment changelog -->
+  <string name="changelog_du_title">История изменений</string>
+  <string name="changelog_du_summary">Просмотр последних изменений</string>
+  <string name="changelog_du_error">Невозможно загрузить историю изменений</string>
 </resources>

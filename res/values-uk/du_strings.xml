@@ -124,4 +124,8 @@
   <string name="menu_search">Search apps</string>
   <string name="menu_search_hint">Search apps\u2026</string>
   <string name="custom_ambient_display_summary">Configure advanced Ambient Display</string>
+  <!-- DU building environment changelog -->
+  <string name="changelog_du_title">Історія змін</string>
+  <string name="changelog_du_summary">Перегляд останніх змін</string>
+  <string name="changelog_du_error">Неможливо завантажити історію змін</string>
 </resources>

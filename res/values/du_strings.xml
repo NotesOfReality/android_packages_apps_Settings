@@ -168,4 +168,9 @@
     <!-- Volume settings - Volume adjustment sound -->
     <string name="volume_adjust_sounds_title">Volume adjustment sounds</string>
 
+    <!-- DU building environment changelog -->
+    <string name="changelog_du_title">Changelog</string>
+    <string name="changelog_du_summary">View recent changes</string>
+    <string name="changelog_du_error">Unable to load changelog</string>
+
 </resources>
