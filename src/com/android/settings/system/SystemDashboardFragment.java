@@ -34,6 +34,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import com.android.settings.development.DevelopmentSettings;
+
 public class SystemDashboardFragment extends DashboardFragment {
 
     private static final String TAG = "SystemDashboardFrag";
@@ -54,6 +56,18 @@ public class SystemDashboardFragment extends DashboardFragment {
     protected int getPreferenceScreenResId() {
         return R.xml.system_dashboard_fragment;
     }
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+		
+		final String KEY_DEVICE_PART = "xiaomi_parts";
+    final String KEY_DEVICE_PART_PACKAGE_NAME = "com.aicp.settings.device";
+		
+		// DeviceParts
+        if (!DevelopmentSettings.isPackageInstalled(getActivity(), KEY_DEVICE_PART_PACKAGE_NAME)) {
+            getPreferenceScreen().removePreference(findPreference(KEY_DEVICE_PART));
+        }
 
     @Override
     protected int getHelpResource() {

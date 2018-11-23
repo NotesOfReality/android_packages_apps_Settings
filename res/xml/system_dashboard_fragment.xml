@@ -62,4 +62,16 @@
         android:order="-20"
         android:fragment="com.android.settings.system.ResetDashboardFragment" />
 
+        <!-- XiaomiParts -->
+        <Preference
+            android:key="xiaomi_parts"
+            android:persistent="false"
+            android:title="@string/xiaomi_parts_title"
+            android:summary="@string/xiaomi_parts_summary"
+            android:icon="@drawable/ic_settings_device">
+            <intent android:action="android.intent.action.MAIN"
+                 android:targetPackage="com.aicp.settings.device"
+                 android:targetClass="com.aicp.settings.device.DeviceSettings"/>
+        </Preference>
+
 </PreferenceScreen>
