@@ -50,8 +50,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import com.aicp.extras.R;
-
 public final class VariousUtils {
     private static final String TAG = "VariousUtils";
 
@@ -255,19 +253,6 @@ public final class VariousUtils {
 
     public static void restartSystemUi(Context context) {
         new RestartSystemUiTask(context).execute();
-    }
-
-    public static void showSystemUiRestartDialog(Context context) {
-        new AlertDialog.Builder(context)
-                .setTitle(R.string.systemui_restart_title)
-                .setMessage(R.string.systemui_restart_message)
-                .setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog, int id) {
-                        restartSystemUi(context);
-                    }
-                })
-                .setNegativeButton(R.string.cancel, null)
-                .show();
     }
 
     private static class RestartSystemUiTask extends AsyncTask<Void, Void, Void> {
