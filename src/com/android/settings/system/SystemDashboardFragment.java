@@ -35,7 +35,7 @@ import java.util.Arrays;
 import java.util.List;
 
 import android.os.Bundle;
-import com.android.settings.development.DevelopmentSettings;
+import com.android.settings.VariousUtils;
 
 public class SystemDashboardFragment extends DashboardFragment {
 
@@ -66,7 +66,7 @@ public class SystemDashboardFragment extends DashboardFragment {
     final String KEY_DEVICE_PART_PACKAGE_NAME = "com.aicp.settings.device";
 		
 		// DeviceParts
-        if (!DevelopmentSettings.isPackageInstalled(getActivity(), KEY_DEVICE_PART_PACKAGE_NAME)) {
+        if (!VariousUtils.isPackageInstalled(getActivity(), KEY_DEVICE_PART_PACKAGE_NAME)) {
             getPreferenceScreen().removePreference(findPreference(KEY_DEVICE_PART));}}
 
     @Override
