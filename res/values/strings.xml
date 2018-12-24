@@ -9054,4 +9054,8 @@
 
     <!-- Note displayed when certain features are not available on low ram devices. [CHAR LIMIT=NONE] -->
     <string name="disabled_low_ram_device">This feature is not available on this device</string>
+
+   <!-- XiaomiParts -->
+   <string name="xiaomi_parts_title">XiaomiParts</string>
+   <string name="xiaomi_parts_summary">Device-specific properties of Xiaomi Redmi 4 Prime (markw)</string>
 </resources>
