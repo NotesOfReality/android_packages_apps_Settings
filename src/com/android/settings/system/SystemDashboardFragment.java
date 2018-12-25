@@ -34,7 +34,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import android.os.Bundle
+import android.os.Bundle;
 import com.android.settings.development.DevelopmentSettings;
 
 public class SystemDashboardFragment extends DashboardFragment {
@@ -67,7 +67,7 @@ public class SystemDashboardFragment extends DashboardFragment {
 		
 		// DeviceParts
         if (!DevelopmentSettings.isPackageInstalled(getActivity(), KEY_DEVICE_PART_PACKAGE_NAME)) {
-            getPreferenceScreen().removePreference(findPreference(KEY_DEVICE_PART));}
+            getPreferenceScreen().removePreference(findPreference(KEY_DEVICE_PART));}}
 
     @Override
     protected int getHelpResource() {
