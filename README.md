@@ -1,5 +1,4 @@
 # android_packages_apps_Settings
-Various "Settings" app branches from various ROMs repos, with some personal modifications.I hope it can be a bit informative to anybody approaching to the "little world" of the modifications of the "Settings" app.
 This is the "Settings" app "o8.1" repo from https://github.com/AICP/packages_apps_Settings/tree/o8.1 THANKS @AICP , I've uploaded it instead of forking in order to make search possible.
 
 | Features I added: |
