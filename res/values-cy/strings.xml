@@ -15,106 +15,105 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Strings for Dialog yes button -->
-  <!-- Strings for Dialog no button -->
-  <!-- Strings for Dialog create button -->
-  <!-- Strings for Dialog allow button -->
-  <string name="allow">Caniatáu</string>
-  <!-- Strings for Dialog deny button -->
-  <!-- Strings for Dialog close button [CHAR LIMIT=20] -->
-  <string name="dlg_close">Cau</string>
-  <!-- Strings for Dialog switch button [CHAR LIMIT=20] -->
-  <!-- Device Info -->
-  <!-- Device Info screen. Used for a status item's value when the proper value is not known -->
-  <!-- [CHAR LIMIT=NONE] Device Info screen. Countdown for user taps to enable development settings -->
-  <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
-  <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
-  <!-- [CHAR LIMIT=NONE] Toast message when user attemps to launch developer otions before enabling it. -->
-  <!-- Category headings in left-pane header menu -->
-  <!-- Settings main menu category heading. Wireless and networks (Wi-Fi, Bluetooth, data usage...). [CHAR LIMIT=40] -->
-  <string name="header_category_wireless_networks">Di-wifr a rhwydweithiau</string>
-  <!-- Settings main menu category heading. Wireless and networks (Wi-Fi, Bluetooth, data usage...). [CHAR LIMIT=40] -->
-  <!-- Settings main menu category heading. Device (Sound, display, battery, applications...). [CHAR LIMIT=40] -->
-  <string name="header_category_device">Dyfais</string>
-  <!-- Settings main menu category heading. Personal (Accounts, security, language, backup...). [CHAR LIMIT=40] -->
-  <string name="header_category_personal">Personol</string>
-  <!-- Settings main menu category heading. Personal (Accounts, security, language, backup...). [CHAR LIMIT=40] -->
-  <string name="header_category_access">Mynediad</string>
-  <!-- Settings main menu category heading. System (Updates, data, accessibility, about phone). [CHAR LIMIT=40] -->
-  <!-- Data Connection Enable. Only shown in diagnostic screen, so precise translation is not needed. -->
-  <string name="radio_info_data_connection_enable">Galluogi Cysylltiad Data</string>
-  <!-- Data Connection Disable. Only shown in diagnostic screen, so precise translation is not needed. -->
-  <string name="radio_info_data_connection_disable">Analluogi Cysylltiad Data</string>
-  <!-- VoLTE provisioning flag on. Only shown in diagnostic screen, so precise translation is not needed. -->
-  <string name="volte_provisioned_switch_string">Darpariaeth VoLTE</string>
-  <!-- Video calling provisioning flag on. Only shown in diagnostic screen, so precise translation is not needed. -->
-  <string name="vt_provisioned_switch_string">Darpariaeth Galwadau Fideo</string>
-  <!-- Wifi Calling provisioning flag on. Only shown in diagnostic screen, so precise translation is not needed. -->
-  <string name="wfc_provisioned_switch_string">Darpariaeth Galwadau Wi-Fi</string>
-  <!-- EAB provisioning flag on. Only shown in diagnostic screen, so precise translation is not needed. -->
-  <!-- Title for controlling on/off for Mobile phone's radio power. Only shown in diagnostic screen, so precise translation is not needed. -->
-  <!-- Phone Info screen. Menu item label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <string name="radioInfo_menu_viewADN">Gweld Llyfr Gyfeiriadau\'r SIM</string>
-  <!-- Phone Info screen. Menu item label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. Menu item label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. Menu item label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <string name="radioInfo_menu_getIMS">Statws Gwasanaeth IMS</string>
-  <!-- Phone Info screen. IMS Registration Title.  Used for diagnostic info screens, precise translation isn't needed -->
-  <string name="radio_info_ims_reg_status_title">Statws IMS</string>
-  <!-- Phone Info screen. IMS Status - Registered.  Used for diagnostic info screens, precise translation isn't needed -->
-  <string name="radio_info_ims_reg_status_registered">Cofrestredig</string>
-  <!-- Phone Info screen. Ims Status - Unregistered.  Used for diagnostic info screens, precise translation isn't needed -->
-  <string name="radio_info_ims_reg_status_not_registered">Heb Gofrestru</string>
-  <!-- Phone Info screen. Ims Feature Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. Ims Feature status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. IMS Registration.  Used for diagnostic info screens, precise translation isn't needed -->
-  <string name="radio_info_ims_reg_status">Cofrestriad IMS: <xliff:g id="status" example="registered">%1$s</xliff:g>\u000ALlais dros LTE: <xliff:g id="availability" example="available">%2$s</xliff:g>\u000ALlais dros WiFi: <xliff:g id="availability" example="available">%3$s</xliff:g>\u000AGalwadau fideo: <xliff:g id="availability" example="available">%4$s</xliff:g>\u000ARhyngwyneb UT:<xliff:g id="availability" example="available">%5$s</xliff:g></string>
-  <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <string name="radioInfo_service_in">Mewn Gwasanaeth</string>
-  <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <string name="radioInfo_service_out">Allan o Wasanaeth</string>
-  <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <string name="radioInfo_service_emergency">Galwadau Brys yn Unig</string>
-  <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <string name="radioInfo_service_off">Radio wedi\'i Diffodd</string>
-  <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <string name="radioInfo_roaming_not">Dim yn Crwydro</string>
-  <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <string name="radioInfo_phone_offhook">Galwad ar y Gweill</string>
-  <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Phone Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Used for diagnostic info screens, precise translation isn't needed -->
-  <!-- Used for diagnostic info screens, precise translation isn't needed. Unmounts the SD card from the phone, meaning it will become available for an attached computer  [CHAR LIMIT=25] -->
-  <!-- Used for diagnostic info screens, precise translation isn't needed. Unmounts the SD card from the phone, meaning it will become available for an attached computer  -->
-  <!-- Used for diagnostic info screens, precise translation isn't needed. Formats the SD card in the phone, meaning it will be erased and reformatted [CHAR LIMIT=25] -->
-  <string name="sdcard_format" product="nosdcard">Dileu popeth ar y storfa USB</string>
-  <!-- Used for diagnostic info screens, precise translation isn't needed. Formats the SD card in the phone, meaning it will be erased and reformatted -->
-  <string name="sdcard_format" product="default">Dileu popeth ar y cerdyn SD</string>
-  <!-- Content description for preview pager. [CHAR LIMIT=NONE] -->
-  <string name="preview_pager_content_description">Rhagolwg</string>
-  <!-- Content description for dot pager indicator for preview pager. [CHAR LIMIT=NONE] -->
-  <string name="preview_page_indicator_content_description">Rhagolwg, tudalen <xliff:g id="current_page" example="3">%1$d</xliff:g> o <xliff:g id="num_pages" example="9">%2$d</xliff:g></string>
-  <!-- Summary of font size setting screen. [CHAR LIMIT=NONE] -->
-  <string name="font_size_summary">Gosod maint y testun sy\'n ymddangos ar y sgrin.</string>
-  <!-- Description for the button that makes interface elements smaller. [CHAR_LIMIT=NONE] -->
-  <string name="font_size_make_smaller_desc">Gwneud yn llai</string>
-  <!-- Description for the button that makes interface elements larger. [CHAR_LIMIT=NONE] -->
-  <string name="font_size_make_larger_desc">Gwneud yn fwy</string>
-  <!-- Sample text for font size preview. -->
-  <string name="font_size_preview_text_headline">Testun enghreifftiol</string>
-  <string name="font_size_preview_text_title" translation_description="Title text in sample text used to illustrate how the currently selected font size will appear to the user. NOTE: Translate manually. No not adopt any copyrighted material for translation.">
-Pedeir Keinc y Mabinogi
+    <!-- Strings for Dialog yes button -->
+    <!-- Strings for Dialog no button -->
+    <!-- Strings for Dialog create button -->
+    <!-- Strings for Dialog allow button -->
+    <string name="allow">Caniatáu</string>
+    <!-- Strings for Dialog deny button -->
+    <!-- Strings for Dialog close button [CHAR LIMIT=20] -->
+    <string name="dlg_close">Cau</string>
+    <!-- Strings for Dialog switch button [CHAR LIMIT=20] -->
+    <!-- Device Info -->
+    <!-- Device Info screen. Used for a status item's value when the proper value is not known -->
+    <!-- [CHAR LIMIT=NONE] Device Info screen. Countdown for user taps to enable development settings -->
+    <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
+    <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
+    <!-- [CHAR LIMIT=NONE] Toast message when user attemps to launch developer otions before enabling it. -->
+    <!-- Category headings in left-pane header menu -->
+    <!-- Settings main menu category heading. Wireless and networks (Wi-Fi, Bluetooth, data usage...). [CHAR LIMIT=40] -->
+    <string name="header_category_wireless_networks">Di-wifr a rhwydweithiau</string>
+    <!-- Settings main menu category heading. Wireless and networks (Wi-Fi, Bluetooth, data usage...). [CHAR LIMIT=40] -->
+    <!-- Settings main menu category heading. Device (Sound, display, battery, applications...). [CHAR LIMIT=40] -->
+    <string name="header_category_device">Dyfais</string>
+    <!-- Settings main menu category heading. Personal (Accounts, security, language, backup...). [CHAR LIMIT=40] -->
+    <string name="header_category_personal">Personol</string>
+    <!-- Settings main menu category heading. Personal (Accounts, security, language, backup...). [CHAR LIMIT=40] -->
+    <string name="header_category_access">Mynediad</string>
+    <!-- Settings main menu category heading. System (Updates, data, accessibility, about phone). [CHAR LIMIT=40] -->
+    <!-- Data Connection Enable. Only shown in diagnostic screen, so precise translation is not needed. -->
+    <string name="radio_info_data_connection_enable">Galluogi Cysylltiad Data</string>
+    <!-- Data Connection Disable. Only shown in diagnostic screen, so precise translation is not needed. -->
+    <string name="radio_info_data_connection_disable">Analluogi Cysylltiad Data</string>
+    <!-- VoLTE provisioning flag on. Only shown in diagnostic screen, so precise translation is not needed. -->
+    <string name="volte_provisioned_switch_string">Darpariaeth VoLTE</string>
+    <!-- Video calling provisioning flag on. Only shown in diagnostic screen, so precise translation is not needed. -->
+    <string name="vt_provisioned_switch_string">Darpariaeth Galwadau Fideo</string>
+    <!-- Wifi Calling provisioning flag on. Only shown in diagnostic screen, so precise translation is not needed. -->
+    <string name="wfc_provisioned_switch_string">Darpariaeth Galwadau Wi-Fi</string>
+    <!-- EAB provisioning flag on. Only shown in diagnostic screen, so precise translation is not needed. -->
+    <!-- Title for controlling on/off for Mobile phone's radio power. Only shown in diagnostic screen, so precise translation is not needed. -->
+    <!-- Phone Info screen. Menu item label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <string name="radioInfo_menu_viewADN">Gweld Llyfr Gyfeiriadau\'r SIM</string>
+    <!-- Phone Info screen. Menu item label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. Menu item label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. Menu item label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <string name="radioInfo_menu_getIMS">Statws Gwasanaeth IMS</string>
+    <!-- Phone Info screen. IMS Registration Title.  Used for diagnostic info screens, precise translation isn't needed -->
+    <string name="radio_info_ims_reg_status_title">Statws IMS</string>
+    <!-- Phone Info screen. IMS Status - Registered.  Used for diagnostic info screens, precise translation isn't needed -->
+    <string name="radio_info_ims_reg_status_registered">Cofrestredig</string>
+    <!-- Phone Info screen. Ims Status - Unregistered.  Used for diagnostic info screens, precise translation isn't needed -->
+    <string name="radio_info_ims_reg_status_not_registered">Heb Gofrestru</string>
+    <!-- Phone Info screen. Ims Feature Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. Ims Feature status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. IMS Registration.  Used for diagnostic info screens, precise translation isn't needed -->
+    <string name="radio_info_ims_reg_status">Cofrestriad IMS: <xliff:g id="status" example="registered">%1$s</xliff:g>\u000ALlais dros LTE: <xliff:g id="availability" example="available">%2$s</xliff:g>\u000ALlais dros WiFi: <xliff:g id="availability" example="available">%3$s</xliff:g>\u000AGalwadau fideo: <xliff:g id="availability" example="available">%4$s</xliff:g>\u000ARhyngwyneb UT:<xliff:g id="availability" example="available">%5$s</xliff:g></string>
+    <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <string name="radioInfo_service_in">Mewn Gwasanaeth</string>
+    <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <string name="radioInfo_service_out">Allan o Wasanaeth</string>
+    <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <string name="radioInfo_service_emergency">Galwadau Brys yn Unig</string>
+    <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <string name="radioInfo_service_off">Radio wedi\'i Diffodd</string>
+    <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <string name="radioInfo_roaming_not">Dim yn Crwydro</string>
+    <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <string name="radioInfo_phone_offhook">Galwad ar y Gweill</string>
+    <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Phone Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Used for diagnostic info screens, precise translation isn't needed -->
+    <!-- Used for diagnostic info screens, precise translation isn't needed. Unmounts the SD card from the phone, meaning it will become available for an attached computer  [CHAR LIMIT=25] -->
+    <!-- Used for diagnostic info screens, precise translation isn't needed. Unmounts the SD card from the phone, meaning it will become available for an attached computer  -->
+    <!-- Used for diagnostic info screens, precise translation isn't needed. Formats the SD card in the phone, meaning it will be erased and reformatted [CHAR LIMIT=25] -->
+    <string name="sdcard_format" product="nosdcard">Dileu popeth ar y storfa USB</string>
+    <!-- Used for diagnostic info screens, precise translation isn't needed. Formats the SD card in the phone, meaning it will be erased and reformatted -->
+    <string name="sdcard_format" product="default">Dileu popeth ar y cerdyn SD</string>
+    <!-- Content description for preview pager. [CHAR LIMIT=NONE] -->
+    <string name="preview_pager_content_description">Rhagolwg</string>
+    <!-- Content description for dot pager indicator for preview pager. [CHAR LIMIT=NONE] -->
+    <string name="preview_page_indicator_content_description">Rhagolwg, tudalen <xliff:g id="current_page" example="3">%1$d</xliff:g> o <xliff:g id="num_pages" example="9">%2$d</xliff:g></string>
+    <!-- Summary of font size setting screen. [CHAR LIMIT=NONE] -->
+    <string name="font_size_summary">Gosod maint y testun sy\'n ymddangos ar y sgrin.</string>
+    <!-- Description for the button that makes interface elements smaller. [CHAR_LIMIT=NONE] -->
+    <string name="font_size_make_smaller_desc">Gwneud yn llai</string>
+    <!-- Description for the button that makes interface elements larger. [CHAR_LIMIT=NONE] -->
+    <string name="font_size_make_larger_desc">Gwneud yn fwy</string>
+    <!-- Sample text for font size preview. -->
+    <string name="font_size_preview_text_headline">Testun enghreifftiol</string>
+    <string name="font_size_preview_text_title" translation_description="Title text in sample text used to illustrate how the currently selected font size will appear to the user. NOTE: Translate manually. No not adopt any copyrighted material for translation.">        Pedeir Keinc y Mabinogi
     </string>
   <string name="font_size_preview_text_subtitle" translation_description="Subtitle text in sample text used to illustrate how the currently selected font size will appear to the user. NOTE: Translate manually. No not adopt any copyrighted material for translation.">
 Pwyll a Riannon</string>
@@ -716,174 +715,175 @@ Mae\'r cyfrinair a rhoddaist yn gywir, ond yn anffodus mae dy ddata yn llwgr.\n\
   <!-- Footer text in when choosing screen lock type during setup wizard, telling the user that
          they can add fingerprint after they complete setup wizard. The text "Settings > Security"
          should match settings_label and security_settings_title [CHAR LIMIT=NONE] -->
-  <string name="unlock_setup_wizard_fingerprint_details">Unwaith bydd sgrin cloi wedi ei osod mi fydd hefyd yn bosib gosod olion dy fysedd yn Gosodiadau &gt; Diogelwch.</string>
-  <!-- Title for option to turn of password/pin/pattern unlock. [CHAR LIMIT=22] -->
-  <!-- Title of the dialog shown when the user removes the device lock [CHAR LIMIT=NONE] -->
-  <!-- Title of the dialog shown when the user removes the profile lock [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_title_profile">Tynnu amddiffyniad proffil?</string>
-  <!-- Content of the dialog shown when the user removes the device lock pattern [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_pattern">"Ni fydd nodweddion amddiffyn y ddyfais yn gweithio heb dy batrwm."</string>
-  <!-- Content of the dialog shown when the user removes the device lock pattern and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Ni fydd nodweddion diogelu'r ddyfais yn gweithio heb dy batrwm.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r ddyfais ac ni fydd yn bosib datgloi dy ffôn, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
-  <!-- Content of the dialog shown when the user removes the device lock PIN [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_pin">"Ni fydd nodweddion amddiffyn y ddyfais yn gweithio heb dy PIN."</string>
-  <!-- Content of the dialog shown when the user removes the device lock PIN and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Ni fydd nodweddion diogelu'r ddyfais yn gweithio heb dy PIN.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r ddyfais ac ni fydd yn bosib datgloi dy ffôn, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
-  <!-- Content of the dialog shown when the user removes the device lock password [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_password">"Ni fydd nodweddion amddiffyn y ddyfais yn gweithio heb dy gyfrinair."</string>
-  <!-- Content of the dialog shown when the user removes the device lock password and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Ni fydd nodweddion diogelu'r ddyfais yn gweithio heb dy gyfrinair.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r ddyfais ac ni fydd yn bosib datgloi dy ffôn, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
-  <!-- Content of the dialog shown when the user removes the device lock of unknown type [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_unknown">"Ni fydd nodweddion amddiffyn y ddyfais yn gweithio heb dy sgrin cloi."</string>
-  <!-- Content of the dialog shown when the user removes the device lock of unknown type and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Ni fydd nodweddion diogelu'r ddyfais yn gweithio heb dy sgrin cloi.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r ddyfais ac ni fydd yn bosib datgloi dy ffôn, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
-  <!-- Content of the dialog shown when the user removes the profile lock pattern [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_pattern_profile">"Ni fydd nodweddion amddiffyn proffil yn gweithio heb dy batrwm."</string>
-  <!-- Content of the dialog shown when the user removes the profile lock pattern and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Ni fydd nodweddion diogelu proffil yn gweithio heb dy batrwm.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r proffil ac ni fydd yn bosib datgloi dy broffil, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
-  <!-- Content of the dialog shown when the user removes the profile lock PIN [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_pin_profile">"Ni fydd nodweddion amddiffyn proffil yn gweithio heb dy PIN."</string>
-  <!-- Content of the dialog shown when the user removes the profile lock PIN and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Ni fydd nodweddion diogelu proffil yn gweithio heb dy PIN.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r proffil ac ni fydd yn bosib datgloi dy broffil, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
-  <!-- Content of the dialog shown when the user removes the profile lock password [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_password_profile">"Ni fydd nodweddion amddiffyn proffil yn gweithio heb dy gyfrinair."</string>
-  <!-- Content of the dialog shown when the user removes the profile lock password and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Ni fydd nodweddion diogelu proffil yn gweithio heb dy gyfrinair.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r proffil ac ni fydd yn bosib datgloi dy broffil, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
-  <!-- Content of the dialog shown when the user removes the profile lock of unknown type [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_unknown_profile">"Ni fydd nodweddion amddiffyn proffil yn gweithio heb dy sgrin cloi."</string>
-  <!-- Content of the dialog shown when the user removes the profile lock of unknown type and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Ni fydd nodweddion diogelu proffil yn gweithio heb dy sgrin cloi.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r proffil ac ni fydd yn bosib datgloi dy broffil, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
-  <!-- Affirmative action of the dialog shown when the user removes the device lock [CHAR LIMIT=25] -->
-  <!-- Title shown on security settings to allow the user to change their lockscreen pattern [CHAR LIMIT=22] -->
-  <!-- Title shown on security settings to allow the user to change their lockscreen PIN [CHAR LIMIT=22] -->
-  <!-- Title shown on security settings to allow the user to change their lockscreen password [CHAR LIMIT=22]-->
-  <!-- Message shown on the lock screen when the user incorrectly enters their lock and it counts towards the max attempts before their data on the device is wiped. [CHAR LIMIT=NONE] -->
-  <string name="lock_failed_attempts_before_wipe">Rho gynnig arall arni. Cais <xliff:g id="current_attempts">%1$d</xliff:g> o <xliff:g id="total_attempts">%2$d</xliff:g>.</string>
-  <!-- Title of a dialog shown when the user only has one attempt left to provide the lock before the device, one of its users, or a work profile is wiped. [CHAR LIMIT=NONE] -->
-  <!-- Content of the dialog shown when the user only has one attempt left to provide the device lock pattern before the device is wiped. [CHAR LIMIT=NONE] -->
-  <!-- Content of the dialog shown when the user only has one attempt left to provide the device lock PIN before the device is wiped. [CHAR LIMIT=NONE] -->
-  <!-- Content of the dialog shown when the user only has one attempt left to provide the device lock password before the device is wiped. [CHAR LIMIT=NONE] -->
-  <!-- Content of the dialog shown when the user only has one attempt left to provide the user lock pattern before the user is removed. [CHAR LIMIT=NONE] -->
-  <!-- Content of the dialog shown when the user only has one attempt left to provide the user lock PIN before the user is removed. [CHAR LIMIT=NONE] -->
-  <!-- Content of the dialog shown when the user only has one attempt left to provide the user lock password before the user is removed. [CHAR LIMIT=NONE] -->
-  <!-- Content of the dialog shown when the user only has one attempt left to provide the work lock pattern before the work profile is removed. [CHAR LIMIT=NONE] -->
-  <!-- Content of the dialog shown when the user only has one attempt left to provide the work lock PIN before the work profile is removed. [CHAR LIMIT=NONE] -->
-  <!-- Content of the dialog shown when the user only has one attempt left to provide the work lock password before the work profile is removed. [CHAR LIMIT=NONE] -->
-  <!-- Content of the dialog shown when the user has failed to provide the device lock too many times and the device is wiped. [CHAR LIMIT=NONE] -->
-  <!-- Content of the dialog shown when the user has failed to provide the user lock too many times and the user is removed. [CHAR LIMIT=NONE] -->
-  <!-- Content of the dialog shown when the user has failed to provide the work lock too many times and the work profile is removed. [CHAR LIMIT=NONE] -->
-  <!-- Button label to dismiss the dialog telling the user the work profile has been wiped. [CHAR LIMIT=40] -->
-  <string name="lock_failed_attempts_now_wiping_dialog_dismiss">Wfftio</string>
-  <!-- Hint shown in dialog screen when password is too short -->
-  <!-- Hint shown in dialog screen when PIN is too short -->
-  <!-- Hint shown after minimum password criteria is met -->
-  <!-- Error shown in popup when password is too long -->
-  <!-- Error shown in popup when PIN is too long -->
-  <!-- Error shown when in PIN mode and user enters a non-digit -->
-  <!-- Error shown when in PIN mode and PIN has been used recently. Please keep this string short! -->
-  <!-- Error shown when in PASSWORD mode and user enters an invalid character -->
-  <string name="lockpassword_illegal_character">Rhaid peidio â chynnwys nod annilys.</string>
-  <!-- Error shown when in PASSWORD mode and password is all digits -->
-  <string name="lockpassword_password_requires_alpha">Rhaid cynnwys o leiaf un llythyren.</string>
-  <!-- Error shown when in PASSWORD mode and password doesn't contain any digits -->
-  <string name="lockpassword_password_requires_digit">Rhaid cynnwys o leiaf un digid.</string>
-  <!-- Error shown when in PASSWORD mode and password doesn't contain any symbols -->
-  <string name="lockpassword_password_requires_symbol">Rhaid cynnwys o leiaf un symbol.</string>
-  <!-- Error shown when in PASSWORD mode and password doesn't contain the required number of letters -->
-  <!-- Error shown when in PASSWORD mode and password doesn't contain the required number of lowercase letters -->
-  <!-- Error shown when in PASSWORD mode and password doesn't contain the required number of uppercase letters -->
-  <!-- Error shown when in PASSWORD mode and password doesn't contain the required number of numerical digits -->
-  <!-- Error shown when in PASSWORD mode and password doesn't contain the required number of special symbols -->
-  <!-- Error shown when in PASSWORD mode and password doesn't contain the required number of non-letter characters -->
-  <!-- Error shown when in PASSWORD mode and password has been used recently. Please keep this string short! -->
-  <!-- [CHAR_LIMIT=NONE] Error shown when the user tries to set an ascending or descending sequence of digits -->
-  <!-- Label for ChoosePassword/PIN OK button -->
-  <string name="lockpassword_ok_label">Iawn</string>
-  <!-- Label for ChoosePassword/PIN OK button -->
-  <string name="lockpassword_cancel_label">Diddymu</string>
-  <!-- Label for ChoosePassword/PIN Clear button that clears all text entered by the user so far. -->
-  <!-- Label for LockPatternTutorial Cancel button -->
-  <string name="lockpattern_tutorial_cancel_label">Diddymu</string>
-  <!-- Label for LockPatternTutorial Continue button -->
-  <string name="lockpattern_tutorial_continue_label">Nesaf</string>
-  <!-- Toast shown when lock pattern or password successfully setup. [CHAR LIMIT=64] -->
-  <!-- Title of preference to manage device admin apps, which are used by IT admins to manage devices -->
-  <!-- Summary of preference to manage device admin apps, informing the user that currently no device admin apps are installed and active -->
-  <!-- Summary of preference to manage device admin apps, informing the user how many device admin apps are installed and active -->
-  <!-- Title of preference to manage trust agents -->
-  <!-- Summary shown when trust agent settings is disabled because the user hasn't set up primary security -->
-  <!-- Summary of preference to manage device policies when there is no trust agents-->
-  <string name="manage_trust_agents_summary">Dim</string>
-  <!-- Summary of preference to manage device policies when there is trust agent-->
-  <!-- Bluetooth settings -->
-  <!-- Bluetooth settings check box title on Main Settings screen -->
-  <!-- Bluetooth settings check box summary for turning on bluetooth -->
-  <!--Used as title on second screen after selecting Bluetooth settings -->
-  <!--Wireless controls screen, settings title for the item to take you to the bluetooth settings screen -->
-  <!--Wireless controls screen, settings summary for the item tot ake you to the bluetooth settings screen -->
-  <string name="bluetooth_settings_summary">Rheoli cysylltiadau, gosod enw\'r ddyfais, a\'r dulliau canfod</string>
-  <!-- ======================================================================================= -->
-  <!-- Note: The opening brackets of HTML style tags are escaped (e.g. "<b>" is "&lt;b>") in   -->
-  <!--   the following resources to enable formatting followed by HTML styling, as described   -->
-  <!--   here:  http://developer.android.com/guide/topics/resources/string-resource.html       -->
-  <!-- ======================================================================================= -->
-  <!-- Title for the dialog to enter PIN. [CHAR LIMIT=40] -->
-  <!-- Message when bluetooth is informing the user of the pairing key. [CHAR LIMIT=NONE] -->
-  <!-- Message when bluetooth dialog for passkey entry is showing. [CHAR LIMIT=NONE] -->
-  <!-- Checkbox label for alphanumeric PIN entry (default is numeric PIN). [CHAR LIMIT=50] -->
-  <!-- Bluetooth PIN hint text (below the text entry box). [CHAR LIMIT=30] -->
-  <!-- Bluetooth PIN hint text (below the text entry box). [CHAR LIMIT=30] -->
-  <!-- Pairing dialog text to remind user to enter the PIN on the other device. [CHAR LIMIT=NONE] -->
-  <!-- Pairing dialog text to remind user to enter the passkey on the other device. [CHAR LIMIT=NONE] -->
-  <!-- Message for confirmation of passkey to complete pairing. [CHAR LIMIT=NONE] -->
-  <!-- Message when bluetooth incoming pairing request for (2.1 devices) dialog is showing -->
-  <!-- Message when bluetooth dialog when passkey or pin needs to be displayed. -->
-  <string name="bluetooth_display_passkey_pin_msg">I baru gyda:<xliff:g id="bold1">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold1">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g>Teipia hyn arno:<xliff:g id="bold2">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="passkey">%2$s</xliff:g><xliff:g id="end_bold2">&lt;/b&gt;</xliff:g>, ac yna pwyso \'Return\' neu \'Enter\'.</string>
-  <!-- Checkbox message in pairing dialogs.  [CHAR LIMIT=NONE] -->
-  <!-- Title for BT error dialogs. -->
-  <!-- Message for the error dialog when BT connecting operation fails generically. -->
-  <!-- Bluetooth settings: The title of the preference (list item) that initiates a scan for devices -->
-  <string name="bluetooth_preference_scan_title">Sganio am ddyfeisiau</string>
-  <!-- Bluetooth settings: The title of the action button that initiates a search for nearby devices [CHAR LIMIT=20] -->
-  <string name="bluetooth_search_for_devices">Ail-lwytho</string>
-  <!-- Bluetooth settings: The title of the action button while a search for nearby devices is in progress [CHAR LIMIT=20] -->
-  <!-- Bluetooth settings: The sub heading for device settings. [CHAR LIMIT=30] -->
-  <string name="bluetooth_preference_device_settings">Gosodiadau\'r ddyfais</string>
-  <!-- Bluetooth settings: Paired dialog title [CHAR LIMIT=40] -->
-  <!-- Bluetooth settings: Name label [CHAR LIMIT=40] -->
-  <string name="bluetooth_preference_paired_dialog_name_label">Enw</string>
-  <!-- Bluetooth settings: Checkbox label for enable/disable internet connection.  [CHAR LIMIT=40] -->
-  <string name="bluetooth_preference_paired_dialog_internet_option">Cysylltiad rhyngrwyd</string>
-  <!-- Bluetooth settings: Checkbox label for enable/disable keyboard connection.  [CHAR LIMIT=40] -->
-  <!-- Bluetooth settings: Checkbox label for enable/disable contacts connection.  [CHAR LIMIT=40] -->
-  <string name="bluetooth_preference_paired_dialog_contacts_option">Cysylltiadau a hanes galwadau</string>
-  <!-- Bluetooth settings: pairing dialog title.  [CHAR LIMIT=40] -->
-  <!-- Bluetooth settings: share phone book title.  [CHAR LIMIT=40] -->
-  <!-- Bluetooth settings: Message informing user that a bluetooth wants to access contant and call history.  [CHAR LIMIT=100] -->
-  <string name="bluetooth_pairing_dialog_contants_request">Mae <xliff:g id="device_name">%1$s</xliff:g> eisiau mynediad at dy gysylltiadau a hanes galwadau.</string>
-  <!-- Bluetooth settings: paring permission message.  [CHAR LIMIT=100] -->
-  <string name="bluetooth_pairing_dialog_paring_request">Mae <xliff:g id="device_name">%1$s</xliff:g> eisiau paru gyda Bluetooth. Tra wedi cysylltu, mi fydd gyda mynediad at dy gysylltiadau a hanes galwadau.</string>
-  <!-- Bluetooth settings: The sub heading for devices which have already been paired with this device. [CHAR LIMIT=40] -->
-  <!-- Bluetooth settings: The sub heading for available devices during and after scanning. [CHAR LIMIT=40] -->
-  <string name="bluetooth_preference_found_devices">Dyfeisiau ar gael</string>
-  <!-- Bluetooth settings: The message displayed if no Bluetooth devices were found. [CHAR LIMIT=40] -->
-  <string name="bluetooth_preference_no_found_devices">Dim dyfeisiau ar gael</string>
-  <!-- Bluetooth settings.  Context menu item for a device.  Action will connect to all profiles on the device. -->
-  <string name="bluetooth_device_context_connect">Cysylltu</string>
-  <!-- Bluetooth settings.  Context menu item for a device.  Action will disconnect from all profiles on the device. -->
-  <string name="bluetooth_device_context_disconnect">Datgysylltu</string>
-  <!-- Bluetooth settings.  Context menu item for a device.  Action will first pair, and then connect to all profiles on the device. -->
-  <string name="bluetooth_device_context_pair_connect">Paru a chysylltu</string>
-  <!-- Bluetooth settings.  Context menu item for a device.  Action will remove pairing with the device. -->
-  <!-- Bluetooth settings.  Context menu item for a device.  Action will disconnect and remove pairing with the device. -->
-  <string name="bluetooth_device_context_disconnect_unpair">Datgysylltu a datbaru</string>
-  <!-- Bluetooth settings.  Context menu item for a device.  Action will take the user to another screen where they can choose exactly which profiles to connect to. -->
-  <!-- Bluetooth settings.  Menu option to Bluetooth advanced settings [CHAR LIMIT=20]-->
-  <string name="bluetooth_menu_advanced">Uwch</string>
-  <!-- Bluetooth settings. Title of the advanced bluetooth settings screen [CHAR LIMIT=30]-->
-  <!-- Bluetooth settings. Text displayed when Bluetooth is off and device list is empty [CHAR LIMIT=50]-->
-  <string name="bluetooth_empty_list_bluetooth_off">Pan mae Bluetooth ymlaen, gall dy ddyfais gyfathrebu gyda dyfeisiau Bluetooth gerllaw.</string>
-  <!-- Message to describe "BLE scan always available feature" when Bluetooth is off. The
+    <string name="unlock_setup_wizard_fingerprint_details">Unwaith bydd sgrin cloi wedi ei osod mi fydd hefyd yn bosib gosod olion dy fysedd yn Gosodiadau &gt; Diogelwch.</string>
+    <!-- Title for option to turn of password/pin/pattern unlock. [CHAR LIMIT=22] -->
+    <!-- Title of the dialog shown when the user removes the device lock [CHAR LIMIT=NONE] -->
+    <!-- Title of the dialog shown when the user removes the profile lock [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_title_profile">Tynnu amddiffyniad proffil?</string>
+    <!-- Content of the dialog shown when the user removes the device lock pattern [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_pattern">"Ni fydd nodweddion amddiffyn y ddyfais yn gweithio heb dy batrwm."</string>
+    <!-- Content of the dialog shown when the user removes the device lock pattern and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Ni fydd nodweddion diogelu'r ddyfais yn gweithio heb dy batrwm.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r ddyfais ac ni fydd yn bosib datgloi dy ffôn, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
+    <!-- Content of the dialog shown when the user removes the device lock PIN [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_pin">"Ni fydd nodweddion amddiffyn y ddyfais yn gweithio heb dy PIN."</string>
+    <!-- Content of the dialog shown when the user removes the device lock PIN and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Ni fydd nodweddion diogelu'r ddyfais yn gweithio heb dy PIN.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r ddyfais ac ni fydd yn bosib datgloi dy ffôn, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
+    <!-- Content of the dialog shown when the user removes the device lock password [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_password">"Ni fydd nodweddion amddiffyn y ddyfais yn gweithio heb dy gyfrinair."</string>
+    <!-- Content of the dialog shown when the user removes the device lock password and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Ni fydd nodweddion diogelu'r ddyfais yn gweithio heb dy gyfrinair.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r ddyfais ac ni fydd yn bosib datgloi dy ffôn, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
+    <!-- Content of the dialog shown when the user removes the device lock of unknown type [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_unknown">"Ni fydd nodweddion amddiffyn y ddyfais yn gweithio heb dy sgrin cloi."</string>
+    <!-- Content of the dialog shown when the user removes the device lock of unknown type and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Ni fydd nodweddion diogelu'r ddyfais yn gweithio heb dy sgrin cloi.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r ddyfais ac ni fydd yn bosib datgloi dy ffôn, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
+    <!-- Content of the dialog shown when the user removes the profile lock pattern [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_pattern_profile">"Ni fydd nodweddion amddiffyn proffil yn gweithio heb dy batrwm."</string>
+    <!-- Content of the dialog shown when the user removes the profile lock pattern and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Ni fydd nodweddion diogelu proffil yn gweithio heb dy batrwm.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r proffil ac ni fydd yn bosib datgloi dy broffil, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
+    <!-- Content of the dialog shown when the user removes the profile lock PIN [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_pin_profile">"Ni fydd nodweddion amddiffyn proffil yn gweithio heb dy PIN."</string>
+    <!-- Content of the dialog shown when the user removes the profile lock PIN and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Ni fydd nodweddion diogelu proffil yn gweithio heb dy PIN.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r proffil ac ni fydd yn bosib datgloi dy broffil, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
+    <!-- Content of the dialog shown when the user removes the profile lock password [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_password_profile">"Ni fydd nodweddion amddiffyn proffil yn gweithio heb dy gyfrinair."</string>
+    <!-- Content of the dialog shown when the user removes the profile lock password and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Ni fydd nodweddion diogelu proffil yn gweithio heb dy gyfrinair.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r proffil ac ni fydd yn bosib datgloi dy broffil, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
+    <!-- Content of the dialog shown when the user removes the profile lock of unknown type [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_unknown_profile">"Ni fydd nodweddion amddiffyn proffil yn gweithio heb dy sgrin cloi."</string>
+    <!-- Content of the dialog shown when the user removes the profile lock of unknown type and the user has fingerprints enrolled [CHAR LIMIT=NONE] -->
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Ni fydd nodweddion diogelu proffil yn gweithio heb dy sgrin cloi.<xliff:g id="empty_line">\n\n</xliff:g>Bydd olion dy fysedd sydd wedi eu cadw hefyd yn cael eu tynnu o'r proffil ac ni fydd yn bosib datgloi dy broffil, awdurdodi prynu pethau, na mewngofnodi i apiau hebddyn nhw."</string>
+    <!-- Affirmative action of the dialog shown when the user removes the device lock [CHAR LIMIT=25] -->
+    <!-- Title shown on security settings to allow the user to change their lockscreen pattern [CHAR LIMIT=22] -->
+    <!-- Title shown on security settings to allow the user to change their lockscreen PIN [CHAR LIMIT=22] -->
+    <!-- Title shown on security settings to allow the user to change their lockscreen password [CHAR LIMIT=22]-->
+    <!-- Message shown on the lock screen when the user incorrectly enters their lock and it counts towards the max attempts before their data on the device is wiped. [CHAR LIMIT=NONE] -->
+    <string name="lock_failed_attempts_before_wipe">Rho gynnig arall arni. Cais <xliff:g id="current_attempts">%1$d</xliff:g> o <xliff:g id="total_attempts">%2$d</xliff:g>.</string>
+    <!-- Title of a dialog shown when the user only has one attempt left to provide the lock before the device, one of its users, or a work profile is wiped. [CHAR LIMIT=NONE] -->
+    <!-- Content of the dialog shown when the user only has one attempt left to provide the device lock pattern before the device is wiped. [CHAR LIMIT=NONE] -->
+    <!-- Content of the dialog shown when the user only has one attempt left to provide the device lock PIN before the device is wiped. [CHAR LIMIT=NONE] -->
+    <!-- Content of the dialog shown when the user only has one attempt left to provide the device lock password before the device is wiped. [CHAR LIMIT=NONE] -->
+    <!-- Content of the dialog shown when the user only has one attempt left to provide the user lock pattern before the user is removed. [CHAR LIMIT=NONE] -->
+    <!-- Content of the dialog shown when the user only has one attempt left to provide the user lock PIN before the user is removed. [CHAR LIMIT=NONE] -->
+    <!-- Content of the dialog shown when the user only has one attempt left to provide the user lock password before the user is removed. [CHAR LIMIT=NONE] -->
+    <!-- Content of the dialog shown when the user only has one attempt left to provide the work lock pattern before the work profile is removed. [CHAR LIMIT=NONE] -->
+    <!-- Content of the dialog shown when the user only has one attempt left to provide the work lock PIN before the work profile is removed. [CHAR LIMIT=NONE] -->
+    <!-- Content of the dialog shown when the user only has one attempt left to provide the work lock password before the work profile is removed. [CHAR LIMIT=NONE] -->
+    <!-- Content of the dialog shown when the user has failed to provide the device lock too many times and the device is wiped. [CHAR LIMIT=NONE] -->
+    <!-- Content of the dialog shown when the user has failed to provide the user lock too many times and the user is removed. [CHAR LIMIT=NONE] -->
+    <!-- Content of the dialog shown when the user has failed to provide the work lock too many times and the work profile is removed. [CHAR LIMIT=NONE] -->
+    <!-- Button label to dismiss the dialog telling the user the work profile has been wiped. [CHAR LIMIT=40] -->
+    <string name="lock_failed_attempts_now_wiping_dialog_dismiss">Wfftio</string>
+    <!-- Hint shown in dialog screen when password is too short -->
+    <!-- Hint shown in dialog screen when PIN is too short -->
+    <!-- Hint shown after minimum password criteria is met -->
+    <!-- Error shown in popup when password is too long -->
+    <!-- Error shown in popup when PIN is too long -->
+    <!-- Error shown when in PIN mode and user enters a non-digit -->
+    <!-- Error shown when in PIN mode and PIN has been used recently. Please keep this string short! -->
+    <!-- Error shown when in PASSWORD mode and user enters an invalid character -->
+    <string name="lockpassword_illegal_character">Rhaid peidio â chynnwys nod annilys.</string>
+    <!-- Error shown when in PASSWORD mode and password is all digits -->
+    <string name="lockpassword_password_requires_alpha">Rhaid cynnwys o leiaf un llythyren.</string>
+    <!-- Error shown when in PASSWORD mode and password doesn't contain any digits -->
+    <string name="lockpassword_password_requires_digit">Rhaid cynnwys o leiaf un digid.</string>
+    <!-- Error shown when in PASSWORD mode and password doesn't contain any symbols -->
+    <string name="lockpassword_password_requires_symbol">Rhaid cynnwys o leiaf un symbol.</string>
+    <!-- Error shown when in PASSWORD mode and password doesn't contain the required number of letters -->
+    <!-- Error shown when in PASSWORD mode and password doesn't contain the required number of lowercase letters -->
+    <!-- Error shown when in PASSWORD mode and password doesn't contain the required number of uppercase letters -->
+    <!-- Error shown when in PASSWORD mode and password doesn't contain the required number of numerical digits -->
+    <!-- Error shown when in PASSWORD mode and password doesn't contain the required number of special symbols -->
+    <!-- Error shown when in PASSWORD mode and password doesn't contain the required number of non-letter characters -->
+    <!-- Error shown when in PASSWORD mode and password has been used recently. Please keep this string short! -->
+    <!-- [CHAR_LIMIT=NONE] Error shown when the user tries to set an ascending or descending sequence of digits -->
+    <!-- Label for ChoosePassword/PIN OK button -->
+    <string name="lockpassword_ok_label">Iawn</string>
+    <!-- Label for ChoosePassword/PIN OK button -->
+    <string name="lockpassword_cancel_label">Diddymu</string>
+    <!-- Label for ChoosePassword/PIN Clear button that clears all text entered by the user so far. -->
+    <!-- Label for LockPatternTutorial Cancel button -->
+    <string name="lockpattern_tutorial_cancel_label">Diddymu</string>
+    <!-- Label for LockPatternTutorial Continue button -->
+    <string name="lockpattern_tutorial_continue_label">Nesaf</string>
+    <!-- Toast shown when lock pattern or password successfully setup. [CHAR LIMIT=64] -->
+    <!-- Title of preference to manage device admin apps, which are used by IT admins to manage devices -->
+    <!-- Summary of preference to manage device admin apps, informing the user that currently no device admin apps are installed and active -->
+    <!-- Summary of preference to manage device admin apps, informing the user how many device admin apps are installed and active -->
+    <!-- Title of preference to manage trust agents -->
+    <!-- Summary shown when trust agent settings is disabled because the user hasn't set up primary security -->
+    <!-- Summary of preference to manage device policies when there is no trust agents-->
+    <string name="manage_trust_agents_summary">Dim</string>
+    <!-- Summary of preference to manage device policies when there is trust agent-->
+    <!-- Bluetooth settings -->
+    <!-- Bluetooth settings check box title on Main Settings screen -->
+    <!-- Bluetooth settings check box summary for turning on bluetooth -->
+    <!--Used as title on second screen after selecting Bluetooth settings -->
+    <!--Wireless controls screen, settings title for the item to take you to the bluetooth settings screen -->
+    <!--Wireless controls screen, settings summary for the item tot ake you to the bluetooth settings screen -->
+    <string name="bluetooth_settings_summary">Rheoli cysylltiadau, gosod enw\'r ddyfais, a\'r dulliau canfod</string>
+    <!-- ======================================================================================= -->
+    <!-- Note: The opening brackets of HTML style tags are escaped (e.g. "<b>" is "&lt;b>") in   -->
+    <!--   the following resources to enable formatting followed by HTML styling, as described   -->
+    <!--   here:  http://developer.android.com/guide/topics/resources/string-resource.html       -->
+    <!-- ======================================================================================= -->
+    <!-- Title for the dialog to enter PIN. [CHAR LIMIT=40] -->
+    <!-- Message when bluetooth is informing the user of the pairing key. [CHAR LIMIT=NONE] -->
+    <!-- Message when bluetooth dialog for passkey entry is showing. [CHAR LIMIT=NONE] -->
+    <!-- Checkbox label for alphanumeric PIN entry (default is numeric PIN). [CHAR LIMIT=50] -->
+    <!-- Bluetooth PIN hint text (below the text entry box). [CHAR LIMIT=30] -->
+    <!-- Bluetooth PIN hint text (below the text entry box). [CHAR LIMIT=30] -->
+    <string name="bluetooth_pin_values_hint_16_digits">Rhaid bod yn 16 digid</string>
+    <!-- Pairing dialog text to remind user to enter the PIN on the other device. [CHAR LIMIT=NONE] -->
+    <!-- Pairing dialog text to remind user to enter the passkey on the other device. [CHAR LIMIT=NONE] -->
+    <!-- Message for confirmation of passkey to complete pairing. [CHAR LIMIT=NONE] -->
+    <!-- Message when bluetooth incoming pairing request for (2.1 devices) dialog is showing -->
+    <!-- Message when bluetooth dialog when passkey or pin needs to be displayed. -->
+    <string name="bluetooth_display_passkey_pin_msg">I baru gyda:<xliff:g id="bold1">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold1">&lt;/b&gt;&lt;br&gt;&lt;br&gt;</xliff:g>Teipia hyn arno:<xliff:g id="bold2">&lt;br&gt;&lt;b&gt;</xliff:g><xliff:g id="passkey">%2$s</xliff:g><xliff:g id="end_bold2">&lt;/b&gt;</xliff:g>, ac yna pwyso \'Return\' neu \'Enter\'.</string>
+    <!-- Checkbox message in pairing dialogs.  [CHAR LIMIT=NONE] -->
+    <!-- Title for BT error dialogs. -->
+    <!-- Message for the error dialog when BT connecting operation fails generically. -->
+    <!-- Bluetooth settings: The title of the preference (list item) that initiates a scan for devices -->
+    <string name="bluetooth_preference_scan_title">Sganio am ddyfeisiau</string>
+    <!-- Bluetooth settings: The title of the action button that initiates a search for nearby devices [CHAR LIMIT=20] -->
+    <string name="bluetooth_search_for_devices">Ail-lwytho</string>
+    <!-- Bluetooth settings: The title of the action button while a search for nearby devices is in progress [CHAR LIMIT=20] -->
+    <!-- Bluetooth settings: The sub heading for device settings. [CHAR LIMIT=30] -->
+    <string name="bluetooth_preference_device_settings">Gosodiadau\'r ddyfais</string>
+    <!-- Bluetooth settings: Paired dialog title [CHAR LIMIT=40] -->
+    <!-- Bluetooth settings: Name label [CHAR LIMIT=40] -->
+    <string name="bluetooth_preference_paired_dialog_name_label">Enw</string>
+    <!-- Bluetooth settings: Checkbox label for enable/disable internet connection.  [CHAR LIMIT=40] -->
+    <string name="bluetooth_preference_paired_dialog_internet_option">Cysylltiad rhyngrwyd</string>
+    <!-- Bluetooth settings: Checkbox label for enable/disable keyboard connection.  [CHAR LIMIT=40] -->
+    <!-- Bluetooth settings: Checkbox label for enable/disable contacts connection.  [CHAR LIMIT=40] -->
+    <string name="bluetooth_preference_paired_dialog_contacts_option">Cysylltiadau a hanes galwadau</string>
+    <!-- Bluetooth settings: pairing dialog title.  [CHAR LIMIT=40] -->
+    <!-- Bluetooth settings: share phone book title.  [CHAR LIMIT=40] -->
+    <!-- Bluetooth settings: Message informing user that a bluetooth wants to access contant and call history.  [CHAR LIMIT=100] -->
+    <string name="bluetooth_pairing_dialog_contants_request">Mae <xliff:g id="device_name">%1$s</xliff:g> eisiau mynediad at dy gysylltiadau a hanes galwadau.</string>
+    <!-- Bluetooth settings: paring permission message.  [CHAR LIMIT=100] -->
+    <string name="bluetooth_pairing_dialog_paring_request">Mae <xliff:g id="device_name">%1$s</xliff:g> eisiau paru gyda Bluetooth. Tra wedi cysylltu, mi fydd gyda mynediad at dy gysylltiadau a hanes galwadau.</string>
+    <!-- Bluetooth settings: The sub heading for devices which have already been paired with this device. [CHAR LIMIT=40] -->
+    <!-- Bluetooth settings: The sub heading for available devices during and after scanning. [CHAR LIMIT=40] -->
+    <string name="bluetooth_preference_found_devices">Dyfeisiau ar gael</string>
+    <!-- Bluetooth settings: The message displayed if no Bluetooth devices were found. [CHAR LIMIT=40] -->
+    <string name="bluetooth_preference_no_found_devices">Dim dyfeisiau ar gael</string>
+    <!-- Bluetooth settings.  Context menu item for a device.  Action will connect to all profiles on the device. -->
+    <string name="bluetooth_device_context_connect">Cysylltu</string>
+    <!-- Bluetooth settings.  Context menu item for a device.  Action will disconnect from all profiles on the device. -->
+    <string name="bluetooth_device_context_disconnect">Datgysylltu</string>
+    <!-- Bluetooth settings.  Context menu item for a device.  Action will first pair, and then connect to all profiles on the device. -->
+    <string name="bluetooth_device_context_pair_connect">Paru a chysylltu</string>
+    <!-- Bluetooth settings.  Context menu item for a device.  Action will remove pairing with the device. -->
+    <!-- Bluetooth settings.  Context menu item for a device.  Action will disconnect and remove pairing with the device. -->
+    <string name="bluetooth_device_context_disconnect_unpair">Datgysylltu a datbaru</string>
+    <!-- Bluetooth settings.  Context menu item for a device.  Action will take the user to another screen where they can choose exactly which profiles to connect to. -->
+    <!-- Bluetooth settings.  Menu option to Bluetooth advanced settings [CHAR LIMIT=20]-->
+    <string name="bluetooth_menu_advanced">Uwch</string>
+    <!-- Bluetooth settings. Title of the advanced bluetooth settings screen [CHAR LIMIT=30]-->
+    <!-- Bluetooth settings. Text displayed when Bluetooth is off and device list is empty [CHAR LIMIT=50]-->
+    <string name="bluetooth_empty_list_bluetooth_off">Pan mae Bluetooth ymlaen, gall dy ddyfais gyfathrebu gyda dyfeisiau Bluetooth gerllaw.</string>
+    <!-- Message to describe "BLE scan always available feature" when Bluetooth is off. The
       place-holders "LINK_BEGIN" and "LINK_END" must NOT be translated. They mark a link to bring
       the user to "scanning settings" screen. -->
   <!-- Bluetooth connecting error message [CHAR LIMIT=NONE] -->
@@ -2090,103 +2090,105 @@ Mae\'r cyfrinair a rhoddaist yn gywir, ond yn anffodus mae dy ddata yn llwgr.\n\
   <!-- Security & location settings screen, the help instructions (an animation) caption -->
   <!-- Security & location settings screen, confirm unlock pattern screen hint at the bottom after
          too many incorrect attempts [CHAR LIMIT=120]-->
-  <!-- Displayed when user launches a widget configuration activity that was uninstalled -->
-  <!-- Profile Lock settings -->
-  <!-- Security & location settings screen, header for profile specific section -->
-  <string name="lock_settings_profile_title">Diogelwch proffil gwaith</string>
-  <!-- Security & location settings screen, title when changing or confirming the work profile lock -->
-  <string name="lock_settings_profile_screen_lock_title">Sgrin cloi proffil gwaith</string>
-  <!-- Security & location settings screen, setting option name to unify work and personal locks -->
-  <string name="lock_settings_profile_unification_title">Defnyddio un clo</string>
-  <!-- Security & location settings screen, setting option explanation to unify work and personal locks -->
-  <string name="lock_settings_profile_unification_summary">Defnyddio\'r un clo ar gyfer y proffil gwaith a sgrin y ddyfais</string>
-  <!-- Security & location settings screen, title of the dialog asking if the user wants to unify work and personal locks -->
-  <string name="lock_settings_profile_unification_dialog_title">Defnyddio un clo?</string>
-  <!-- Security & location settings screen, explanation in the dialog asking if the user wants to unify work and personal locks -->
-  <!-- Security & location settings screen, explanation in the dialog asking if the user wants to create a new lock for personal and work as the current work lock is not enough for the device. -->
-  <string name="lock_settings_profile_unification_dialog_uncompliant_body">Dyw clo dy broffil gwaith ddim yn cwrdd ag anghenion diogelwch dy sefydliad. Mae\'n bosib defnyddio\'r un clo ar gyfer sgrin dy ddyfais a dy broffil gwaith, ond bydd yn rhaid iddo gydymffurfio â pholisïau dy weithle.</string>
-  <!-- Security & location settings screen, confirmation button of the dialog for user with compliant lock, asking to create a new lock for both personal and work profiles. -->
-  <string name="lock_settings_profile_unification_dialog_confirm">Defnyddio un clo</string>
-  <!-- Security & location settings screen, confirmation button of the dialog for user with uncompliant lock, asking to create a new lock for both personal and work profiles. -->
-  <string name="lock_settings_profile_unification_dialog_uncompliant_confirm">Defnyddio un clo</string>
-  <!-- Security & location settings screen, summary of the item that changes your work profile lock when it is unified with the personal lock -->
-  <string name="lock_settings_profile_unified_summary">Yr un fath a chlo sgrin y ddyfais</string>
-  <!-- Applications Settings -->
-  <!-- Applications settings screen, setting option name for the user to go to the screen to manage installed applications  -->
-  <string name="manageapplications_settings_title">Rheoli apiau</string>
-  <!-- Applications settings screen, setting option summary for the user to go to the screen to manage installed applications  -->
-  <string name="manageapplications_settings_summary">Rheoli a thynnu apiau wedi\'u gosod</string>
-  <!-- Applications settings title, on main settings screen. If clicked, the user is taken to a settings screen full of application settings-->
-  <!-- Applications settings summary, on main settings screen. The summary for the "Applications" item on the main settings screen. Describes what settings are accessible from the "Applications" screen. -->
-  <!-- Applications settings screen heading. The header for the Application settings screen. -->
-  <string name="applications_settings_header">Gosodiadau apiau</string>
-  <!-- Applications settings screen, setting check box title. If checked, the system allows installation of applications that are downloaded from random places, such as web sites.  -->
-  <!-- Applications settings screen, setting check box title. If checked, the system allows installation of applications that are downloaded from random places, such as web sites.  [CHAR LIMIT=30] -->
-  <!-- Category title listing recently used apps [CHAR_LIMIT=50]-->
-  <!-- Preference title for showing all apps on device [CHAR_LIMIT=50]-->
-  <!-- Preference summary for each recently used app, which is the time since last used, i.e. "7 h 20 min ago". Note: ^1 should be used in all translations [CHAR_LIMIT=60] -->
-  <!-- Warning that appears below the unknown sources switch in settings -->
-  <!-- Warning that appears below the unknown sources switch in settings -->
-  <!-- Applications settings screen, setting check box title. If checked, applications show more settings options. -->
-  <string name="advanced_settings">Gosodiadau uwch</string>
-  <!-- Applications settings screen, setting check box summary.  This is the summary for "Advanced settings" checkbox  -->
-  <!-- Manage applications, individual application info screen title. For example, if they click on "Browser" in "Manage applications", the title of the next screen will be this -->
-  <!-- Manage applications, individual application info screen, section heading for stuff relating to an app's storage settings. -->
-  <!-- Manage applications, individual application info screen,  heading for settings related to controlling whether this app is the default for some actions -->
-  <!-- Manage applications, individual application info screen,  heading for settings related to controlling whether this app is the default for some actions *and* whether the app was given permission by the user to create widgets -->
-  <!-- Manage applications, individual application info screen,  heading for settings related to controlling application screen compatibility -->
-  <!-- Manage applications, individual application info screen, heading for settings related to the app's permissions. for example, it may list all the permissions the app has. -->
-  <!-- Manage applications, Header name used for cache information -->
-  <!-- Manage applications, text label for button -->
-  <!-- Manage applications, label that appears next to the cache size -->
-  <!-- Manage applications, individual application info storage screen. Describes the number of URIs (directories or files) an app has been granted access (by another apps)-->
-  <plurals name="uri_permissions_text">
-    <item quantity="zero">%d eitemau</item>
-    <item quantity="one">1 eitem</item>
-    <item quantity="two">%d eitem</item>
-    <item quantity="few">%d eitem</item>
-    <item quantity="many">%d eitem</item>
-    <item quantity="other">%d eitem</item>
-  </plurals>
-  <!-- Manage applications, individual application info storage screen. Button below list of URIs. -->
-  <string name="clear_uri_btn_text">Clirio mynediad</string>
-  <!-- Manage applications, Header name used for other controls -->
-  <!-- Manage applications, text label for button to kill / force stop an application -->
-  <!-- Manage applications, individual application info screen,label under Storage heading.  The total storage space taken up by this app. -->
-  <!-- Manage applications, individual application info screen, label under Storage heading. The amount of space taken up by the application itself (for example, the java compield files and things like that) -->
-  <!--  Manage applications, individual application info screen, label under Storage heading.  The amount of space taken up by the app's code on USB storage [CHARSIZE=40] -->
-  <!-- Manage applications, individual application info screen, label under Storage heading.  The amount of sapce taken up by the app's data (for example, downloaded emails or something like that) -->
-  <!--  Manage applications, individual application info screen, label under Storage heading.  The amount of space taken up by the app's data on USB storage [CHARSIZE=40] -->
-  <!--  Manage applications, individual application info screen, label under Storage heading.  The amount of space taken up by the app's data on the SD card [CHARSIZE=40] -->
-  <!-- Manage applications, individual application info screen, button label under Storage heading. Button to remove the application from the system. -->
-  <!-- Manage applications, individual application info screen, menu item to uninstall an application for all users. -->
-  <!-- [CHAR LIMIT=NONE] Manage applications, individual application info screen, button label under Storage heading. Button to install an application for the user. -->
-  <!-- [CHAR LIMIT=25] Manage applications, individual application info screen, button label under Storage heading. Button to disable an existing application. -->
-  <!-- [CHAR LIMIT=25] Manage applications, individual application info screen, button label under Storage heading. Button to re-enable an existing application. -->
-  <!-- Manage applications, individual application info screen, button label under Storage heading. Button to clear all data associated with tis app (for exampel, remove all cached emails for an Email app) -->
-  <!-- Manage applications, restore updated system application to factory version -->
-  <!-- Manage applications, individual application info screen, screen, message text under Launch by default heading. This is present if the app is set as a default for some actions. -->
-  <!-- Manage applications, individual application info screen, screen, message text under Launch by default heading. This is present if the app was given user permission to create widgets. -->
-  <!-- Manage applications, individual application screen, text under Launch by default heading if the app is NOT a default for actions -->
-  <!-- Manage applications, individual application screen, button label under Launch by default heading.  This is used to clear any default actions that may be assigned to this app.  -->
-  <!-- Manage applications, individual application info screen, screen, message text under screen compatibility heading -->
-  <!-- Manage applications, individual application screen, checkbox to control asking for compatibility mode.  -->
-  <!-- Manage applications, individual application screen, checkbox to control compatibility mode.  -->
-  <!-- TODO: Remove it once the same entry in SettingsLib is translated. -->
-  <!-- Manage apps, individual app screen, substituted for the application's label when the app's label CAN NOT be determined.-->
-  <!-- [CHAR LIMIT=25] Manage applications screen, menu item.  Sorts all of the apps in the list alphabetically. -->
-  <string name="sort_order_alpha">Trefnu yn ôl enw</string>
-  <!-- Manage applications screen, menu item. Sorts all of the apps in the list based on their file size.  This is used to uninstall when space is getting low. -->
-  <!-- [CHAR LIMIT=25] Manage applications screen, menu item.  Show running services. -->
-  <string name="show_running_services">Dangos gwasanaethau sy\'n rhedeg</string>
-  <!-- [CHAR LIMIT=25] Manage applications screen, menu item.  Show background cached processes. -->
-  <!-- [CHAR LIMIT=NONE] Advanced applications screen, preference title.  Choose the emergency application. -->
-  <!-- [CHAR LIMIT=NONE] Manage applications screen, menu item.  Reset all of user's app preferences. -->
-  <string name="reset_app_preferences">Ailosod dewisiadau apiau</string>
-  <!-- [CHAR LIMIT=NONE] Manage applications screen, menu item.  Title of dialog to confirm resetting user's app preferences. -->
-  <string name="reset_app_preferences_title">Ailosod dewisiadau apiau?</string>
-  <!-- [CHAR LIMIT=NONE] Manage applications screen, menu item.  Body of dialog to confirm resetting user's app preferences. -->
-  <string name="reset_app_preferences_desc">Bydd hyn yn ailosod yr holl ddewisiadau ar gyfer:\n\n
+    <!-- Displayed when user launches a widget configuration activity that was uninstalled -->
+    <!-- Profile Lock settings -->
+    <!-- Security & location settings screen, header for profile specific section -->
+    <string name="lock_settings_profile_title">Diogelwch proffil gwaith</string>
+    <!-- Security & location settings screen, title when changing or confirming the work profile lock -->
+    <string name="lock_settings_profile_screen_lock_title">Sgrin cloi proffil gwaith</string>
+    <!-- Security & location settings screen, setting option name to unify work and personal locks -->
+    <string name="lock_settings_profile_unification_title">Defnyddio un clo</string>
+    <!-- Security & location settings screen, setting option explanation to unify work and personal locks -->
+    <string name="lock_settings_profile_unification_summary">Defnyddio\'r un clo ar gyfer y proffil gwaith a sgrin y ddyfais</string>
+    <!-- Security & location settings screen, title of the dialog asking if the user wants to unify work and personal locks -->
+    <string name="lock_settings_profile_unification_dialog_title">Defnyddio un clo?</string>
+    <!-- Security & location settings screen, explanation in the dialog asking if the user wants to unify work and personal locks -->
+    <!-- Security & location settings screen, explanation in the dialog asking if the user wants to create a new lock for personal and work as the current work lock is not enough for the device. -->
+    <string name="lock_settings_profile_unification_dialog_uncompliant_body">Dyw clo dy broffil gwaith ddim yn cwrdd ag anghenion diogelwch dy sefydliad. Mae\'n bosib defnyddio\'r un clo ar gyfer sgrin dy ddyfais a dy broffil gwaith, ond bydd yn rhaid iddo gydymffurfio â pholisïau dy weithle.</string>
+    <!-- Security & location settings screen, confirmation button of the dialog for user with compliant lock, asking to create a new lock for both personal and work profiles. -->
+    <string name="lock_settings_profile_unification_dialog_confirm">Defnyddio un clo</string>
+    <!-- Security & location settings screen, confirmation button of the dialog for user with uncompliant lock, asking to create a new lock for both personal and work profiles. -->
+    <string name="lock_settings_profile_unification_dialog_uncompliant_confirm">Defnyddio un clo</string>
+    <!-- Security & location settings screen, summary of the item that changes your work profile lock when it is unified with the personal lock -->
+    <string name="lock_settings_profile_unified_summary">Yr un fath a chlo sgrin y ddyfais</string>
+    <!-- Applications Settings -->
+    <!-- Applications settings screen, setting option name for the user to go to the screen to manage installed applications  -->
+    <string name="manageapplications_settings_title">Rheoli apiau</string>
+    <!-- Applications settings screen, setting option summary for the user to go to the screen to manage installed applications  -->
+    <string name="manageapplications_settings_summary">Rheoli a thynnu apiau wedi\'u gosod</string>
+    <!-- Applications settings title, on main settings screen. If clicked, the user is taken to a settings screen full of application settings-->
+    <!-- Applications settings summary, on main settings screen. The summary for the "Applications" item on the main settings screen. Describes what settings are accessible from the "Applications" screen. -->
+    <!-- Applications settings screen heading. The header for the Application settings screen. -->
+    <string name="applications_settings_header">Gosodiadau apiau</string>
+    <!-- Applications settings screen, setting check box title. If checked, the system allows installation of applications that are downloaded from random places, such as web sites.  -->
+    <!-- Applications settings screen, setting check box title. If checked, the system allows installation of applications that are downloaded from random places, such as web sites.  [CHAR LIMIT=30] -->
+    <!-- Category title listing recently used apps [CHAR_LIMIT=50]-->
+    <!-- Preference title for showing all apps on device [CHAR_LIMIT=50]-->
+    <!-- Preference summary for each recently used app, which is the time since last used, i.e. "7 h 20 min ago". Note: ^1 should be used in all translations [CHAR_LIMIT=60] -->
+    <!-- Warning that appears below the unknown sources switch in settings -->
+    <string name="install_all_warning" product="tablet">Mae dy lechen a dy ddata personol yn llai diogel rhag ymosodiad gan apiau anhysbys. Wrth osod apiau o\'r ffynhonell hon, rwyt yn cytuno dy fod yn gyfrifol am unrhyw niwed i dy ddyfais neu golled data y gall ddigwydd o ganlyniad i\'w defnyddio.    </string>
+    <!-- Warning that appears below the unknown sources switch in settings -->
+    <string name="install_all_warning" product="default">Mae dy ffôn a dy ddata personol yn llai diogel rhag ymosodiad gan apiau anhysbys. Wrth osod apiau o\'r ffynhonell hon, rwyt yn cytuno dy fod yn gyfrifol am unrhyw niwed i dy ddyfais neu golled data y gall ddigwydd o ganlyniad i\'w defnyddio.    </string>
+    <!-- Applications settings screen, setting check box title. If checked, applications show more settings options. -->
+    <string name="advanced_settings">Gosodiadau uwch</string>
+    <!-- Applications settings screen, setting check box summary.  This is the summary for "Advanced settings" checkbox  -->
+    <!-- Manage applications, individual application info screen title. For example, if they click on "Browser" in "Manage applications", the title of the next screen will be this -->
+    <!-- Manage applications, individual application info screen, section heading for stuff relating to an app's storage settings. -->
+    <!-- Manage applications, individual application info screen,  heading for settings related to controlling whether this app is the default for some actions -->
+    <!-- Manage applications, individual application info screen,  heading for settings related to controlling whether this app is the default for some actions *and* whether the app was given permission by the user to create widgets -->
+    <!-- Manage applications, individual application info screen,  heading for settings related to controlling application screen compatibility -->
+    <!-- Manage applications, individual application info screen, heading for settings related to the app's permissions. for example, it may list all the permissions the app has. -->
+    <!-- Manage applications, Header name used for cache information -->
+    <!-- Manage applications, text label for button -->
+    <!-- Manage applications, label that appears next to the cache size -->
+    <!-- Manage applications, individual application info storage screen. Describes the number of URIs (directories or files) an app has been granted access (by another apps)-->
+    <plurals name="uri_permissions_text">
+        <item quantity="zero">%d eitemau</item>
+        <item quantity="one">1 eitem</item>
+        <item quantity="two">%d eitem</item>
+        <item quantity="few">%d eitem</item>
+        <item quantity="many">%d eitem</item>
+        <item quantity="other">%d eitem</item>
+    </plurals>
+    <!-- Manage applications, individual application info storage screen. Button below list of URIs. -->
+    <string name="clear_uri_btn_text">Clirio mynediad</string>
+    <!-- Manage applications, Header name used for other controls -->
+    <!-- Manage applications, text label for button to kill / force stop an application -->
+    <!-- Manage applications, individual application info screen,label under Storage heading.  The total storage space taken up by this app. -->
+    <!-- Manage applications, individual application info screen, label under Storage heading. The amount of space taken up by the application itself (for example, the java compield files and things like that) -->
+    <!--  Manage applications, individual application info screen, label under Storage heading.  The amount of space taken up by the app's code on USB storage [CHARSIZE=40] -->
+    <!-- Manage applications, individual application info screen, label under Storage heading.  The amount of sapce taken up by the app's data (for example, downloaded emails or something like that) -->
+    <!--  Manage applications, individual application info screen, label under Storage heading.  The amount of space taken up by the app's data on USB storage [CHARSIZE=40] -->
+    <!--  Manage applications, individual application info screen, label under Storage heading.  The amount of space taken up by the app's data on the SD card [CHARSIZE=40] -->
+    <!-- Manage applications, individual application info screen, button label under Storage heading. Button to remove the application from the system. -->
+    <!-- Manage applications, individual application info screen, menu item to uninstall an application for all users. -->
+    <!-- [CHAR LIMIT=NONE] Manage applications, individual application info screen, button label under Storage heading. Button to install an application for the user. -->
+    <!-- [CHAR LIMIT=25] Manage applications, individual application info screen, button label under Storage heading. Button to disable an existing application. -->
+    <!-- [CHAR LIMIT=25] Manage applications, individual application info screen, button label under Storage heading. Button to re-enable an existing application. -->
+    <!-- Manage applications, individual application info screen, button label under Storage heading. Button to clear all data associated with tis app (for exampel, remove all cached emails for an Email app) -->
+    <!-- Manage applications, restore updated system application to factory version -->
+    <!-- Manage applications, individual application info screen, screen, message text under Launch by default heading. This is present if the app is set as a default for some actions. -->
+    <!-- Manage applications, individual application info screen, screen, message text under Launch by default heading. This is present if the app was given user permission to create widgets. -->
+    <!-- Manage applications, individual application screen, text under Launch by default heading if the app is NOT a default for actions -->
+    <!-- Manage applications, individual application screen, button label under Launch by default heading.  This is used to clear any default actions that may be assigned to this app.  -->
+    <!-- Manage applications, individual application info screen, screen, message text under screen compatibility heading -->
+    <!-- Manage applications, individual application screen, checkbox to control asking for compatibility mode.  -->
+    <!-- Manage applications, individual application screen, checkbox to control compatibility mode.  -->
+    <!-- TODO: Remove it once the same entry in SettingsLib is translated. -->
+    <!-- Manage apps, individual app screen, substituted for the application's label when the app's label CAN NOT be determined.-->
+    <!-- [CHAR LIMIT=25] Manage applications screen, menu item.  Sorts all of the apps in the list alphabetically. -->
+    <string name="sort_order_alpha">Trefnu yn ôl enw</string>
+    <!-- Manage applications screen, menu item. Sorts all of the apps in the list based on their file size.  This is used to uninstall when space is getting low. -->
+    <!-- [CHAR LIMIT=25] Manage applications screen, menu item.  Show running services. -->
+    <string name="show_running_services">Dangos gwasanaethau sy\'n rhedeg</string>
+    <!-- [CHAR LIMIT=25] Manage applications screen, menu item.  Show background cached processes. -->
+    <!-- [CHAR LIMIT=NONE] Advanced applications screen, preference title.  Choose the emergency application. -->
+    <!-- [CHAR LIMIT=NONE] Manage applications screen, menu item.  Reset all of user's app preferences. -->
+    <string name="reset_app_preferences">Ailosod dewisiadau apiau</string>
+    <!-- [CHAR LIMIT=NONE] Manage applications screen, menu item.  Title of dialog to confirm resetting user's app preferences. -->
+    <string name="reset_app_preferences_title">Ailosod dewisiadau apiau?</string>
+    <!-- [CHAR LIMIT=NONE] Manage applications screen, menu item.  Body of dialog to confirm resetting user's app preferences. -->
+    <string name="reset_app_preferences_desc">Bydd hyn yn ailosod yr holl ddewisiadau ar gyfer:\n\n
 <li>Apiau wedi eu hanalluogi</li>\n
 <li>Hysbysiadau apiau wedi eu hanalluogi</li>\n
 <li>Dewisiadau pa apiau i ddefnyddio ar gyfer pa weithredoedd</li>\n
@@ -2655,252 +2657,253 @@ Defnyddio\'r gwirydd sillafu hwn?</string>
         enabling an accessibility service and there is a secure lock setup. [CHAR LIMIT=NONE] -->
   <!-- Warning that the device data will not be encrypted with password or PIN if
          choosing a secure lock and there is an enabled accessibility service. [CHAR LIMIT=NONE] -->
-  <!-- Message to the user to enter his pattern before enabling an accessibility service. [CHAR LIMIT=NONE] -->
-  <!-- Message to the user to enter his PIN before enabling an accessibility service. [CHAR LIMIT=NONE] -->
-  <!-- Message to the user to enter his password before enabling an accessibility service. [CHAR LIMIT=NONE] -->
-  <!-- Title for the capability of an accessibility service to receive events and keys. -->
-  <!-- Description for the capability of an accessibility service to receive events and keys. -->
-  <!-- Title for a warning about disabling an accessibility service. [CHAR LIMIT=NONE] -->
-  <!-- Message for a warning about disabling accessibility service. [CHAR LIMIT=NONE] -->
-  <string name="disable_service_message">Bydd taro Iawn yn stopio <xliff:g id="service" example="TalkBack">%1$s</xliff:g>.</string>
-  <!-- Title for the prompt shown as a placeholder if no accessibility services are installed. [CHAR LIMIT=50] -->
-  <string name="accessibility_no_services_installed">Dim gwasanaeth wedi\'i osod</string>
-  <!-- Title for the acccessibility shortcut's summary if no service is selected for use with the shortcut. [CHAR LIMIT=50] -->
-  <!-- Default description for an accessibility service if the latter doesn't provide one. [CHAR LIMIT=NONE] -->
-  <!-- Accessibility settings: button for lauching settings for an accessibility service -->
-  <!-- Printing settings -->
-  <!-- Title in main settings screen for printing settings [CHAR LIMIT=15] -->
-  <string name="print_settings">Argraffu</string>
-  <!-- Print setting summary in settings screen [CHAR LIMIT=50] -->
-  <string name="print_settings_summary_no_service">I ffwrdd</string>
-  <!-- Print setting summary in settings screen [CHAR LIMIT=50] -->
-  <!-- Print setting summary in settings screenm indicating how many print jobs are active [CHAR LIMIT=None] -->
-  <!-- Title for print service settings screen [CHAR LIMIT=25] -->
-  <string name="print_settings_title">Gwasanaethau argraffu</string>
-  <!-- Title for the prompt shown as a placeholder if no print services are installed. [CHAR LIMIT=50] -->
-  <string name="print_no_services_installed">Dim gwasanaeth wedi\'i osod</string>
-  <!-- Title for the prompt shown as a placeholder if no printers are found while searching. [CHAR LIMIT=50] -->
-  <!-- Title for print menu item to launch a settings activity. [CHAR LIMIT=25] -->
-  <!-- Title for print menu item to launch the add printers activity. [CHAR LIMIT=25] -->
-  <!-- Summary for the enabled state of a print feature. [CHAR LIMIT=10] -->
-  <string name="print_feature_state_on">Ymlaen</string>
-  <!-- Summary for the disabled state of a print feature. [CHAR LIMIT=10] -->
-  <string name="print_feature_state_off">I ffwrdd</string>
-  <!-- Title of the action bar button to got to Play Store to download a print service. [CHAR LIMIT=25] -->
-  <string name="print_menu_item_add_service">Ychwanegu gwasanaeth</string>
-  <!-- Title of the action bar button to got to add a printer. [CHAR LIMIT=25] -->
-  <!-- Title for the search action bar menu item. [CHAR LIMIT=20] -->
-  <!-- Title for the prompt if no printers are available and the system is searching for such. [CHAR LIMIT=50] -->
-  <string name="print_searching_for_printers">Chwilio am beiriannau argraffu</string>
-  <!-- Title for the prompt if no printers are available because the print service is disabled. [CHAR LIMIT=50] -->
-  <!-- Title for the menu item to open the print jobs screen. [CHAR LIMIT=25] -->
-  <!-- Title for the print job settings screen. [CHAR LIMIT=25] -->
-  <!-- Title for the button to restart a print job. [CHAR LIMIT=25] -->
-  <string name="print_restart">Ailgychwyn</string>
-  <!-- Title for the button to cancel a print job. [CHAR LIMIT=25] -->
-  <string name="print_cancel">Diddymu</string>
-  <!-- Template for the summary of a print job. [CHAR LIMIT=25] -->
-  <!-- Template for the label of the state for a ongoing print job. [CHAR LIMIT=25] -->
-  <string name="print_printing_state_title_template">Yn argraffu <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g></string>
-  <!-- Template for the label for a cancelling print job. [CHAR LIMIT=25] -->
-  <!-- Template for the label of the state for a failed print job. [CHAR LIMIT=25] -->
-  <!-- Template for the label of the state for a blocked print job. [CHAR LIMIT=25] -->
-  <!-- Utterance to announce that the search box is shown. This is spoken to a blind user. [CHAR LIMIT=none] -->
-  <!-- Utterance to announce that the search box is hidden. This is spoken to a blind user. [CHAR LIMIT=none] -->
-  <string name="print_search_box_hidden_utterance">Cuddiwyd y blwch chwilio</string>
-  <!-- Description of printer info icon. [CHAR LIMIT=50] -->
-  <string name="printer_info_desc">Rhagor o wybodaeth am yr argraffydd</string>
-  <!-- App Fuel Gauge strings -->
-  <!-- Activity title for App Fuel Gauge summary -->
-  <!-- Activity title summary for App Fuel Gauge summary -->
-  <!-- Message to show when battery usage data is not available [CHAR LIMIT=30] -->
-  <!-- Display the battery level and status [CHAR_LIMIT=60] -->
-  <!-- Display time remaining until battery is discharged [CHAR_LIMIT=60] -->
-  <!-- Display time remaining until battery is charged [CHAR_LIMIT=60] -->
-  <!-- Title for the background activity setting, which allows a user to control whether an app can run in the background [CHAR_LIMIT=40] -->
-  <!-- Summary for the background activity [CHAR_LIMIT=120] -->
-  <string name="background_activity_summary">Caniatáu yr ap hwn i redeg yn y cefndir</string>
-  <!-- Summary for the background activity when it is on [CHAR_LIMIT=120] -->
-  <!-- Summary for the background activity when it is off [CHAR_LIMIT=120] -->
-  <!-- Summary for the background activity when it is disabled [CHAR_LIMIT=120] -->
-  <!-- Title for the screen usage in power use UI [CHAR_LIMIT=60] -->
-  <!-- Title for the screen consumption in power use UI(i.e. Screen consumption: 30% of battery usage) [CHAR_LIMIT=40] -->
-  <!-- Title for the cellular network in power use UI(i.e. Mobile network scanning: 30% of battery usage) [CHAR_LIMIT=40] -->
-  <!-- Label for time since last full charge in power use UI, i.e. "7 h 20 min ago". Note: ^1 should be used in all translations [CHAR_LIMIT=60] -->
-  <!-- Label for list of apps using battery in power use UI. Note: ^1 should be used in all translations[CHAR_LIMIT=120] -->
-  <!-- Label for device components using battery in power use UI. Note: ^1 should be used in all translations[CHAR_LIMIT=120] -->
-  <!-- Description for the screen usage item [CHAR_LIMIT=120] -->
-  <!-- Label for list of different types using battery in power use UI [CHAR_LIMIT=60] -->
-  <!-- Battery usage since unplugged -->
-  <!-- Battery usage since user reset the stats -->
-  <!-- Battery usage on battery duration -->
-  <!-- Battery usage duration -->
-  <!-- [CHAR LIMIT=25] Label for battery stats charging state graph -->
-  <!-- [CHAR LIMIT=25] Label for battery stats screen on state graph -->
-  <string name="battery_stats_screen_on_label">Sgrin ymlaen</string>
-  <!-- [CHAR LIMIT=25] Label for battery stats gps on state graph -->
-  <!-- [CHAR LIMIT=25] Label for battery stats camera on state graph -->
-  <!-- [CHAR LIMIT=25] Label for battery stats flashlight on state graph -->
-  <string name="battery_stats_flashlight_on_label">Fflacholau ymlaen.</string>
-  <!-- [CHAR LIMIT=25] Label for battery stats wifi running state graph -->
-  <!-- [CHAR LIMIT=25] Label for battery stats wake lock state graph -->
-  <!-- [CHAR LIMIT=25] Label for battery stats phone signal strength graph -->
-  <!-- Battery usage during last unplugged period -->
-  <!-- CPU awake time title -->
-  <!-- Wifi on time -->
-  <!-- Bluetooth on time -->
-  <!-- Activity title for advanced battery usage page [CHAR LIMIT=60] -->
-  <!-- Activity title for battery usage history details [CHAR LIMIT=60] -->
-  <!-- Activity title for battery usage details for an app. or power consumer -->
-  <!-- Subtitle for application/subsystem details -->
-  <!-- Subtitle for possible options -->
-  <!-- Subtitle for list of packages -->
-  <!-- Activity title for battery abnormal details page [CHAR LIMIT=60] -->
-  <!-- Summary for wakelock anomaly, means device been kept awake [CHAR LIMIT=60] -->
-  <!-- Summary for wakeup alarm anomaly, meaning device been wakeup in the background [CHAR LIMIT=60] -->
-  <!-- Summary for location anomaly, meaning device is requesting location too frequently [CHAR LIMIT=60] -->
-  <!-- Summary for anomalies, meaning some apps behaving abnormally  [CHAR LIMIT=80] -->
-  <!-- Title for force stop dialog [CHAR LIMIT=30] -->
-  <!-- Message body for force stop dialog [CHAR LIMIT=NONE] -->
-  <string name="dialog_stop_message" product="default">Ni all dy ffôn reoli\'r batri fel arfer gan fod <xliff:g id="app">%1$s</xliff:g> yn cadw dy ffôn yn effro.\n\nI geisio cywiro hyn, rhaid stopio\'r ap.\n\nOs yw hyn yn parhau i ddigwydd, mae\'n bosib bydd yn rhaid dadosod yr ap i wella perfformiad batri.</string>
-  <!-- Message body for force stop dialog [CHAR LIMIT=NONE] -->
-  <!-- Message body for force stop dialog [CHAR LIMIT=NONE] -->
-  <!-- Message body for force stop dialog [CHAR LIMIT=NONE] -->
-  <!-- Message body for force stop dialog [CHAR LIMIT=NONE] -->
-  <!-- Message body for force stop dialog [CHAR LIMIT=NONE] -->
-  <!-- Text for OK button in force stop dialog [CHAR LIMIT=30] -->
-  <!-- Title for background usage dialog [CHAR LIMIT=70] -->
-  <!-- Message body for background usage dialog [CHAR LIMIT=NONE] -->
-  <string name="dialog_background_check_message" product="default">Ni all dy ffôn rheoli\'r batri yn y modd arferol gan fod <xliff:g id="app">%1$s</xliff:g> yn deffro\'r ffôn o hyd.\n\nI gywiro\'r sefyllfa, awgrymir stopio <xliff:g id="app">%1$s</xliff:g> a\'i rhwystro rhag rhedeg yn y cefndir.</string>
-  <!-- Message body for background usage dialog [CHAR LIMIT=NONE] -->
-  <string name="dialog_background_check_message" product="tablet">Ni all dy lechen rheoli\'r batri yn y modd arferol gan fod <xliff:g id="app">%1$s</xliff:g> yn deffro\'r llechen o hyd.\n\nI gywiro\'r sefyllfa, awgrymir stopio <xliff:g id="app">%1$s</xliff:g> a\'i rhwystro rhag rhedeg yn y cefndir.</string>
-  <!-- Message body for background usage dialog [CHAR LIMIT=NONE] -->
-  <string name="dialog_background_check_message" product="device">Ni all dy ddyfais rheoli\'r batri yn y modd arferol gan fod <xliff:g id="app">%1$s</xliff:g> yn deffro\'r ddyfais o hyd.\n\nI gywiro\'r sefyllfa, awgrymir stopio <xliff:g id="app">%1$s</xliff:g> a\'i rhwystro rhag rhedeg yn y cefndir.</string>
-  <!-- Text for OK button in background usage dialog [CHAR LIMIT=30] -->
-  <string name="dialog_background_check_ok">Troi i ffwrdd</string>
-  <!-- Title for location dialog [CHAR LIMIT=60] -->
-  <!-- Message body for location dialog [CHAR LIMIT=NONE] -->
-  <!-- Message body for location dialog [CHAR LIMIT=NONE] -->
-  <!-- Message body for location dialog [CHAR LIMIT=NONE] -->
-  <!-- Text for OK button in location dialog [CHAR LIMIT=30] -->
-  <string name="dialog_location_ok">Troi i ffwrdd</string>
-  <!-- Label for power consumed by the screen -->
-  <string name="power_screen">Sgrin</string>
-  <!-- Label for power consumed by the flashlight -->
-  <string name="power_flashlight">Fflacholau</string>
-  <!-- Label for power consumed by the camera -->
-  <!-- Label for power consumed by Wi-Fi -->
-  <!-- Label for power consumed by Bluetooth -->
-  <!-- Label for power consumed by Mobile network idle -->
-  <!-- Label for power consumed by Calling -->
-  <!-- Label for power consumed when Idle -->
-  <!-- Label for power consumed when Idle -->
-  <!-- Label for power that we aren't able to account for -->
-  <!-- Label for power that we computed too much for -->
-  <!-- Label for power consumed by apps [CHAR LIMIT=30] -->
-  <!-- Label for power consumed by services [CHAR LIMIT=30] -->
-  <string name="power_service">Gwasanaethau</string>
-  <!-- Label for power consumed by system [CHAR LIMIT=30] -->
-  <!-- Label for power consumed by user [CHAR LIMIT=30] -->
-  <!-- Label for CPU usage time -->
-  <!-- Label for CPU usage in foreground -->
-  <!-- [CHAR LIMIT=25] Label for keeping device from sleeping -->
-  <!-- Label for GPS usage time -->
-  <!-- [CHAR LIMIT=25] Label for WIFI usage time -->
-  <!-- Label for Phone usage time -->
-  <!-- Label for Phone usage time -->
-  <string name="usage_type_phone" product="default">Ffôn</string>
-  <!-- Label for mobile network data sent [CHAR LIMIT=32] -->
-  <string name="usage_type_data_send">Pecynnau symudol wedi eu hanfon</string>
-  <!-- Label for mobile network data received [CHAR LIMIT=32] -->
-  <string name="usage_type_data_recv">Pecynnau symudol wedi eu derbyn</string>
-  <!-- Label for mobile network radio active time [CHAR LIMIT=32] -->
-  <string name="usage_type_radio_active">Radio symudol ar waith</string>
-  <!-- Label for Wi-Fi network data sent [CHAR LIMIT=32] -->
-  <!-- Label for Wi-Fi network data received [CHAR LIMIT=32] -->
-  <!-- Label for Audio usage time -->
-  <!-- Label for Video usage time -->
-  <!-- Label for Camera usage time -->
-  <!-- Label for Flashlight usage time -->
-  <string name="usage_type_flashlight">Fflacholau</string>
-  <!-- Label for time that a feature has been on -->
-  <!-- Label for time that there was no cell coverage -->
-  <!-- Label for the total power capacity of the device's battery -->
-  <!-- [CHAR_LIMIT=NONE] Label for amount of power use that was computed -->
-  <!-- [CHAR_LIMIT=NONE] Label for amount of power use that was actually observed (though
+    <!-- Message to the user to enter his pattern before enabling an accessibility service. [CHAR LIMIT=NONE] -->
+    <!-- Message to the user to enter his PIN before enabling an accessibility service. [CHAR LIMIT=NONE] -->
+    <!-- Message to the user to enter his password before enabling an accessibility service. [CHAR LIMIT=NONE] -->
+    <!-- Title for the capability of an accessibility service to receive events and keys. -->
+    <!-- Description for the capability of an accessibility service to receive events and keys. -->
+    <!-- Title for a warning about disabling an accessibility service. [CHAR LIMIT=NONE] -->
+    <!-- Message for a warning about disabling accessibility service. [CHAR LIMIT=NONE] -->
+    <string name="disable_service_message">Bydd taro Iawn yn stopio <xliff:g id="service" example="TalkBack">%1$s</xliff:g>.</string>
+    <!-- Title for the prompt shown as a placeholder if no accessibility services are installed. [CHAR LIMIT=50] -->
+    <string name="accessibility_no_services_installed">Dim gwasanaeth wedi\'i osod</string>
+    <!-- Title for the acccessibility shortcut's summary if no service is selected for use with the shortcut. [CHAR LIMIT=50] -->
+    <!-- Default description for an accessibility service if the latter doesn't provide one. [CHAR LIMIT=NONE] -->
+    <!-- Accessibility settings: button for lauching settings for an accessibility service -->
+    <!-- Printing settings -->
+    <!-- Title in main settings screen for printing settings [CHAR LIMIT=15] -->
+    <string name="print_settings">Argraffu</string>
+    <!-- Print setting summary in settings screen [CHAR LIMIT=50] -->
+    <string name="print_settings_summary_no_service">I ffwrdd</string>
+    <!-- Print setting summary in settings screen [CHAR LIMIT=50] -->
+    <!-- Print setting summary in settings screenm indicating how many print jobs are active [CHAR LIMIT=None] -->
+    <!-- Title for print service settings screen [CHAR LIMIT=25] -->
+    <string name="print_settings_title">Gwasanaethau argraffu</string>
+    <!-- Title for the prompt shown as a placeholder if no print services are installed. [CHAR LIMIT=50] -->
+    <string name="print_no_services_installed">Dim gwasanaeth wedi\'i osod</string>
+    <!-- Title for the prompt shown as a placeholder if no printers are found while searching. [CHAR LIMIT=50] -->
+    <!-- Title for print menu item to launch a settings activity. [CHAR LIMIT=25] -->
+    <!-- Title for print menu item to launch the add printers activity. [CHAR LIMIT=25] -->
+    <!-- Summary for the enabled state of a print feature. [CHAR LIMIT=10] -->
+    <string name="print_feature_state_on">Ymlaen</string>
+    <!-- Summary for the disabled state of a print feature. [CHAR LIMIT=10] -->
+    <string name="print_feature_state_off">I ffwrdd</string>
+    <!-- Title of the action bar button to got to Play Store to download a print service. [CHAR LIMIT=25] -->
+    <string name="print_menu_item_add_service">Ychwanegu gwasanaeth</string>
+    <!-- Title of the action bar button to got to add a printer. [CHAR LIMIT=25] -->
+    <!-- Title for the search action bar menu item. [CHAR LIMIT=20] -->
+    <!-- Title for the prompt if no printers are available and the system is searching for such. [CHAR LIMIT=50] -->
+    <string name="print_searching_for_printers">Chwilio am beiriannau argraffu</string>
+    <!-- Title for the prompt if no printers are available because the print service is disabled. [CHAR LIMIT=50] -->
+    <!-- Title for the menu item to open the print jobs screen. [CHAR LIMIT=25] -->
+    <!-- Title for the print job settings screen. [CHAR LIMIT=25] -->
+    <!-- Title for the button to restart a print job. [CHAR LIMIT=25] -->
+    <string name="print_restart">Ailgychwyn</string>
+    <!-- Title for the button to cancel a print job. [CHAR LIMIT=25] -->
+    <string name="print_cancel">Diddymu</string>
+    <!-- Template for the summary of a print job. [CHAR LIMIT=25] -->
+    <!-- Template for the label of the state for a ongoing print job. [CHAR LIMIT=25] -->
+    <string name="print_printing_state_title_template">Yn argraffu <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g></string>
+    <!-- Template for the label for a cancelling print job. [CHAR LIMIT=25] -->
+    <!-- Template for the label of the state for a failed print job. [CHAR LIMIT=25] -->
+    <!-- Template for the label of the state for a blocked print job. [CHAR LIMIT=25] -->
+    <!-- Utterance to announce that the search box is shown. This is spoken to a blind user. [CHAR LIMIT=none] -->
+    <!-- Utterance to announce that the search box is hidden. This is spoken to a blind user. [CHAR LIMIT=none] -->
+    <string name="print_search_box_hidden_utterance">Cuddiwyd y blwch chwilio</string>
+    <!-- Description of printer info icon. [CHAR LIMIT=50] -->
+    <string name="printer_info_desc">Rhagor o wybodaeth am yr argraffydd</string>
+    <!-- App Fuel Gauge strings -->
+    <!-- Activity title for App Fuel Gauge summary -->
+    <string name="power_usage_summary_title">Batri</string>
+    <!-- Activity title summary for App Fuel Gauge summary -->
+    <!-- Message to show when battery usage data is not available [CHAR LIMIT=30] -->
+    <!-- Display the battery level and status [CHAR_LIMIT=60] -->
+    <!-- Display time remaining until battery is discharged [CHAR_LIMIT=60] -->
+    <!-- Display time remaining until battery is charged [CHAR_LIMIT=60] -->
+    <!-- Title for the background activity setting, which allows a user to control whether an app can run in the background [CHAR_LIMIT=40] -->
+    <!-- Summary for the background activity [CHAR_LIMIT=120] -->
+    <!-- Summary for the background activity when it is on [CHAR_LIMIT=120] -->
+    <!-- Summary for the background activity when it is off [CHAR_LIMIT=120] -->
+    <!-- Summary for the background activity when it is disabled [CHAR_LIMIT=120] -->
+    <!-- Title for the screen usage in power use UI [CHAR_LIMIT=60] -->
+    <!-- Title for the screen consumption in power use UI(i.e. Screen consumption: 30% of battery usage) [CHAR_LIMIT=40] -->
+    <!-- Title for the cellular network in power use UI(i.e. Mobile network scanning: 30% of battery usage) [CHAR_LIMIT=40] -->
+    <!-- Label for time since last full charge in power use UI, i.e. "7 h 20 min ago". Note: ^1 should be used in all translations [CHAR_LIMIT=60] -->
+    <!-- Label for list of apps using battery in power use UI. Note: ^1 should be used in all translations[CHAR_LIMIT=120] -->
+    <!-- Label for device components using battery in power use UI. Note: ^1 should be used in all translations[CHAR_LIMIT=120] -->
+    <!-- Description for the screen usage item [CHAR_LIMIT=120] -->
+    <!-- Label for list of different types using battery in power use UI [CHAR_LIMIT=60] -->
+    <!-- Battery usage since unplugged -->
+    <!-- Battery usage since user reset the stats -->
+    <!-- Battery usage on battery duration -->
+    <!-- Battery usage duration -->
+    <!-- [CHAR LIMIT=25] Label for battery stats charging state graph -->
+    <!-- [CHAR LIMIT=25] Label for battery stats screen on state graph -->
+    <string name="battery_stats_screen_on_label">Sgrin ymlaen</string>
+    <!-- [CHAR LIMIT=25] Label for battery stats gps on state graph -->
+    <!-- [CHAR LIMIT=25] Label for battery stats camera on state graph -->
+    <!-- [CHAR LIMIT=25] Label for battery stats flashlight on state graph -->
+    <string name="battery_stats_flashlight_on_label">Fflacholau ymlaen.</string>
+    <!-- [CHAR LIMIT=25] Label for battery stats wifi running state graph -->
+    <!-- [CHAR LIMIT=25] Label for battery stats wake lock state graph -->
+    <!-- [CHAR LIMIT=25] Label for battery stats phone signal strength graph -->
+    <!-- Battery usage during last unplugged period -->
+    <!-- CPU awake time title -->
+    <!-- Wifi on time -->
+    <!-- Bluetooth on time -->
+    <!-- Activity title for advanced battery usage page [CHAR LIMIT=60] -->
+    <!-- Activity title for battery usage history details [CHAR LIMIT=60] -->
+    <!-- Activity title for battery usage details for an app. or power consumer -->
+    <!-- Subtitle for application/subsystem details -->
+    <!-- Subtitle for possible options -->
+    <!-- Subtitle for list of packages -->
+    <!-- Activity title for battery abnormal details page [CHAR LIMIT=60] -->
+    <!-- Summary for wakelock anomaly, means device been kept awake [CHAR LIMIT=60] -->
+    <!-- Summary for wakeup alarm anomaly, meaning device been wakeup in the background [CHAR LIMIT=60] -->
+    <!-- Summary for location anomaly, meaning device is requesting location too frequently [CHAR LIMIT=60] -->
+    <!-- Summary for anomalies, meaning some apps behaving abnormally  [CHAR LIMIT=80] -->
+    <!-- Title for force stop dialog [CHAR LIMIT=30] -->
+    <!-- Message body for force stop dialog [CHAR LIMIT=NONE] -->
+    <string name="dialog_stop_message" product="default">Ni all dy ffôn reoli\'r batri fel arfer gan fod <xliff:g id="app">%1$s</xliff:g> yn cadw dy ffôn yn effro.\n\nI geisio cywiro hyn, rhaid stopio\'r ap.\n\nOs yw hyn yn parhau i ddigwydd, mae\'n bosib bydd yn rhaid dadosod yr ap i wella perfformiad batri.</string>
+    <!-- Message body for force stop dialog [CHAR LIMIT=NONE] -->
+    <!-- Message body for force stop dialog [CHAR LIMIT=NONE] -->
+    <!-- Message body for force stop dialog [CHAR LIMIT=NONE] -->
+    <!-- Message body for force stop dialog [CHAR LIMIT=NONE] -->
+    <!-- Message body for force stop dialog [CHAR LIMIT=NONE] -->
+    <!-- Text for OK button in force stop dialog [CHAR LIMIT=30] -->
+    <!-- Title for background usage dialog [CHAR LIMIT=70] -->
+    <!-- Message body for background usage dialog [CHAR LIMIT=NONE] -->
+    <string name="dialog_background_check_message" product="default">Ni all dy ffôn rheoli\'r batri yn y modd arferol gan fod <xliff:g id="app">%1$s</xliff:g> yn deffro\'r ffôn o hyd.\n\nI gywiro\'r sefyllfa, awgrymir stopio <xliff:g id="app">%1$s</xliff:g> a\'i rhwystro rhag rhedeg yn y cefndir.</string>
+    <!-- Message body for background usage dialog [CHAR LIMIT=NONE] -->
+    <string name="dialog_background_check_message" product="tablet">Ni all dy lechen rheoli\'r batri yn y modd arferol gan fod <xliff:g id="app">%1$s</xliff:g> yn deffro\'r llechen o hyd.\n\nI gywiro\'r sefyllfa, awgrymir stopio <xliff:g id="app">%1$s</xliff:g> a\'i rhwystro rhag rhedeg yn y cefndir.</string>
+    <!-- Message body for background usage dialog [CHAR LIMIT=NONE] -->
+    <string name="dialog_background_check_message" product="device">Ni all dy ddyfais rheoli\'r batri yn y modd arferol gan fod <xliff:g id="app">%1$s</xliff:g> yn deffro\'r ddyfais o hyd.\n\nI gywiro\'r sefyllfa, awgrymir stopio <xliff:g id="app">%1$s</xliff:g> a\'i rhwystro rhag rhedeg yn y cefndir.</string>
+    <!-- Text for OK button in background usage dialog [CHAR LIMIT=30] -->
+    <string name="dialog_background_check_ok">Troi i ffwrdd</string>
+    <!-- Title for location dialog [CHAR LIMIT=60] -->
+    <!-- Message body for location dialog [CHAR LIMIT=NONE] -->
+    <!-- Message body for location dialog [CHAR LIMIT=NONE] -->
+    <!-- Message body for location dialog [CHAR LIMIT=NONE] -->
+    <!-- Text for OK button in location dialog [CHAR LIMIT=30] -->
+    <string name="dialog_location_ok">Troi i ffwrdd</string>
+    <!-- Label for power consumed by the screen -->
+    <string name="power_screen">Sgrin</string>
+    <!-- Label for power consumed by the flashlight -->
+    <string name="power_flashlight">Fflacholau</string>
+    <!-- Label for power consumed by the camera -->
+    <!-- Label for power consumed by Wi-Fi -->
+    <!-- Label for power consumed by Bluetooth -->
+    <!-- Label for power consumed by Mobile network idle -->
+    <!-- Label for power consumed by Calling -->
+    <!-- Label for power consumed when Idle -->
+    <!-- Label for power consumed when Idle -->
+    <!-- Label for power that we aren't able to account for -->
+    <!-- Label for power that we computed too much for -->
+    <!-- Label for power consumed by apps [CHAR LIMIT=30] -->
+    <!-- Label for power consumed by services [CHAR LIMIT=30] -->
+    <string name="power_service">Gwasanaethau</string>
+    <!-- Label for power consumed by system [CHAR LIMIT=30] -->
+    <!-- Label for power consumed by user [CHAR LIMIT=30] -->
+    <!-- Label for CPU usage time -->
+    <!-- Label for CPU usage in foreground -->
+    <!-- [CHAR LIMIT=25] Label for keeping device from sleeping -->
+    <!-- Label for GPS usage time -->
+    <!-- [CHAR LIMIT=25] Label for WIFI usage time -->
+    <!-- Label for Phone usage time -->
+    <!-- Label for Phone usage time -->
+    <string name="usage_type_phone" product="default">Ffôn</string>
+    <!-- Label for mobile network data sent [CHAR LIMIT=32] -->
+    <string name="usage_type_data_send">Pecynnau symudol wedi eu hanfon</string>
+    <!-- Label for mobile network data received [CHAR LIMIT=32] -->
+    <string name="usage_type_data_recv">Pecynnau symudol wedi eu derbyn</string>
+    <!-- Label for mobile network radio active time [CHAR LIMIT=32] -->
+    <string name="usage_type_radio_active">Radio symudol ar waith</string>
+    <!-- Label for Wi-Fi network data sent [CHAR LIMIT=32] -->
+    <!-- Label for Wi-Fi network data received [CHAR LIMIT=32] -->
+    <!-- Label for Audio usage time -->
+    <!-- Label for Video usage time -->
+    <!-- Label for Camera usage time -->
+    <!-- Label for Flashlight usage time -->
+    <string name="usage_type_flashlight">Fflacholau</string>
+    <!-- Label for time that a feature has been on -->
+    <!-- Label for time that there was no cell coverage -->
+    <!-- Label for the total power capacity of the device's battery -->
+    <!-- [CHAR_LIMIT=NONE] Label for amount of power use that was computed -->
+    <!-- [CHAR_LIMIT=NONE] Label for amount of power use that was actually observed (though
          the change in battery level) -->
-  <!-- Label for force stop action -->
-  <!-- Label for app details action -->
-  <!-- Label for app settings action -->
-  <string name="battery_action_app_settings">Gosodiadau apiau</string>
-  <!-- Label for display settings -->
-  <string name="battery_action_display">Gosodiadau\'r sgrin</string>
-  <!-- Label for wifi settings -->
-  <!-- Label for bluetooth settings -->
-  <string name="battery_action_bluetooth">Gosodiadau Bluetooth</string>
-  <!-- Description for voice call detail -->
-  <!-- Description for standby detail -->
-  <!-- Description for standby detail -->
-  <!-- Description for cell radio detail -->
-  <!-- Suggestion to switch to airplane mode to save power -->
-  <!-- [CHAR_LIMIT=NONE] Description for power consumed by the flashlight -->
-  <!-- [CHAR_LIMIT=NONE] Description for power consumed by the camera -->
-  <!-- Description for power consumed by display -->
-  <!-- Suggestion for reducing display power -->
-  <!-- Description for wifi connectivity -->
-  <!-- Suggestion for wifi connectivity power drain -->
-  <!-- Description for bluetooth power consumption detail -->
-  <!-- Suggestion for bluetooth -->
-  <string name="battery_sugg_bluetooth_basic">Troi Bluetooth i ffwrdd pan nad yw\'n cael ei ddefnyddio</string>
-  <!-- Suggestion for bluetooth headset -->
-  <!-- [CHAR LIMIT=50] Description for power consumed by applications -->
-  <!-- Suggestion for exploring application info to stop or uninstall -->
-  <!-- [CHAR LIMIT=100] Suggestion for getting apps to consume less power due to GPS-->
-  <!-- Suggestion for getting apps to consume less power -->
-  <!-- [CHAR LIMIT=50] Description for power consumed by users -->
-  <!-- [CHAR LIMIT=50] Description for unaccounted power use -->
-  <!-- [CHAR LIMIT=NONE] Description for unaccounted power use -->
-  <!-- [CHAR LIMIT=50] Description for over-counted power use -->
-  <!-- Representation of a mAh value. [CHAR LIMIT=NONE] -->
-  <!-- Description for battery usage time for an app, i.e. Used for 30min. Note: ^1 should be used in all translations [CHAR LIMIT=60] -->
-  <!-- Description for battery usage background time for an app, i.e. Active for 30min. Note: ^1 should be used in all translations [CHAR LIMIT=60] -->
-  <!-- Description for battery screen usage time for an app, i.e. Screen usage 30min. Note: ^1 should be used in all translations [CHAR LIMIT=60] -->
-  <!-- Description for battery usage info for an app, i.e. 60% used by facebook. [CHAR LIMIT=60] -->
-  <!-- Description for percentage of battery usage for an app, i.e. Screen: 30% of overall battery. [CHAR LIMIT=60] -->
-  <!-- Description for battery usage detail information since last full charge. [CHAR LIMIT=120] -->
-  <!-- Title for usage time since last full charge. [CHAR LIMIT=60] -->
-  <!-- Description for text in battery footer. [CHAR LIMIT=NONE] -->
-  <!-- Title for text that shows the amount of time an app has been running while in the foreground. [CHAR LIMIT=80] -->
-  <!-- Title for text that shows the amount of time an app has been running while in the background. [CHAR LIMIT=80] -->
-  <!-- Title for battery usage amount by this app. [CHAR LIMIT=80] -->
-  <!-- Description for battery usage amount, i.e. 16% of overall app usage(340 mAh). [CHAR LIMIT=120] -->
-  <!-- Title for the battery usage group, which means all the battery data are calculated 'since full charge' [CHAR LIMIT=40] -->
-  <!-- Title for the battery management group [CHAR LIMIT=40] -->
-  <!-- Description for battery time left, i.e. 50min Estimated time left. [CHAR LIMIT=80]-->
-  <!-- Description for charging time left, i.e. 50min until fully charged [CHAR LIMIT=80]-->
-  <!-- Description for estimated time. [CHAR LIMIT=80]-->
-  <!-- Menu label for viewing battery usage since unplugged -->
-  <!-- Menu label for viewing battery usage since unplugged -->
-  <!-- Menu label for viewing battery usage total -->
-  <!-- Menu label for refreshing with latest usage numbers -->
-  <string name="menu_stats_refresh">Ail-lwytho</string>
-  <!-- TODO: Remove it once the same entry in SettingsLib is translated. -->
-  <!-- Label for kernel threads in battery usage -->
-  <!-- Label for mediaserver process in battery usage -->
-  <!-- Label for dex2oat process in battery usage used for the optimization of one or more apps -->
-  <!-- [CHAR_LIMIT=40] Battery saver: Label for feature, title + menu item -->
-  <string name="battery_saver">Arbedwr batri</string>
-  <!-- [CHAR_LIMIT=40] Battery saver: Title for automatic entry option -->
-  <!-- [CHAR_LIMIT=40] Battery saver: Value for automatic entry option: Never -->
-  <!-- [CHAR_LIMIT=40] Battery saver: Value for automatic entry option: pct% battery -->
-  <!-- [CHAR_LIMIT=40] Battery percentage: Title -->
-  <!-- [CHAR_LIMIT=NONE] Battery percentage: Description for preference -->
-  <string name="battery_percentage_description">Dangos canran batri yn y bar statws</string>
-  <!-- Process Stats strings -->
-  <!-- [CHAR LIMIT=NONE] Activity title for Process Stats summary -->
-  <!-- [CHAR LIMIT=NONE] Activity title summary for Process Stats summary -->
-  <!-- [CHAR LIMIT=NONE] Label for amount of memory use -->
-  <!-- [CHAR LIMIT=NONE] Label for process stats, duration of time the stats are over;
+    <!-- Label for force stop action -->
+    <!-- Label for app details action -->
+    <!-- Label for app settings action -->
+    <string name="battery_action_app_settings">Gosodiadau apiau</string>
+    <!-- Label for display settings -->
+    <string name="battery_action_display">Gosodiadau\'r sgrin</string>
+    <!-- Label for wifi settings -->
+    <!-- Label for bluetooth settings -->
+    <string name="battery_action_bluetooth">Gosodiadau Bluetooth</string>
+    <!-- Description for voice call detail -->
+    <!-- Description for standby detail -->
+    <!-- Description for standby detail -->
+    <!-- Description for cell radio detail -->
+    <!-- Suggestion to switch to airplane mode to save power -->
+    <!-- [CHAR_LIMIT=NONE] Description for power consumed by the flashlight -->
+    <!-- [CHAR_LIMIT=NONE] Description for power consumed by the camera -->
+    <!-- Description for power consumed by display -->
+    <!-- Suggestion for reducing display power -->
+    <!-- Description for wifi connectivity -->
+    <!-- Suggestion for wifi connectivity power drain -->
+    <!-- Description for bluetooth power consumption detail -->
+    <!-- Suggestion for bluetooth -->
+    <string name="battery_sugg_bluetooth_basic">Troi Bluetooth i ffwrdd pan nad yw\'n cael ei ddefnyddio</string>
+    <!-- Suggestion for bluetooth headset -->
+    <!-- [CHAR LIMIT=50] Description for power consumed by applications -->
+    <!-- Suggestion for exploring application info to stop or uninstall -->
+    <!-- [CHAR LIMIT=100] Suggestion for getting apps to consume less power due to GPS-->
+    <!-- Suggestion for getting apps to consume less power -->
+    <!-- [CHAR LIMIT=50] Description for power consumed by users -->
+    <!-- [CHAR LIMIT=50] Description for unaccounted power use -->
+    <!-- [CHAR LIMIT=NONE] Description for unaccounted power use -->
+    <!-- [CHAR LIMIT=50] Description for over-counted power use -->
+    <!-- Representation of a mAh value. [CHAR LIMIT=NONE] -->
+    <!-- Description for battery usage time for an app, i.e. Used for 30min. Note: ^1 should be used in all translations [CHAR LIMIT=60] -->
+    <!-- Description for battery usage background time for an app, i.e. Active for 30min. Note: ^1 should be used in all translations [CHAR LIMIT=60] -->
+    <!-- Description for battery screen usage time for an app, i.e. Screen usage 30min. Note: ^1 should be used in all translations [CHAR LIMIT=60] -->
+    <!-- Description for battery usage info for an app, i.e. 60% used by facebook. [CHAR LIMIT=60] -->
+    <!-- Description for percentage of battery usage for an app, i.e. Screen: 30% of overall battery. [CHAR LIMIT=60] -->
+    <!-- Description for battery usage detail information since last full charge. [CHAR LIMIT=120] -->
+    <!-- Title for usage time since last full charge. [CHAR LIMIT=60] -->
+    <!-- Description for text in battery footer. [CHAR LIMIT=NONE] -->
+    <string name="battery_footer_summary">Mae\'r data defnydd batri yn amcangyfrif a gall newid yn ôl defnydd</string>
+    <!-- Title for text that shows the amount of time an app has been running while in the foreground. [CHAR LIMIT=80] -->
+    <!-- Title for text that shows the amount of time an app has been running while in the background. [CHAR LIMIT=80] -->
+    <!-- Title for battery usage amount by this app. [CHAR LIMIT=80] -->
+    <!-- Description for battery usage amount, i.e. 16% of overall app usage(340 mAh). [CHAR LIMIT=120] -->
+    <!-- Title for the battery usage group, which means all the battery data are calculated 'since full charge' [CHAR LIMIT=40] -->
+    <!-- Title for the battery management group [CHAR LIMIT=40] -->
+    <!-- Description for battery time left, i.e. 50min Estimated time left. [CHAR LIMIT=80]-->
+    <!-- Description for charging time left, i.e. 50min until fully charged [CHAR LIMIT=80]-->
+    <!-- Description for estimated time. [CHAR LIMIT=80]-->
+    <!-- Menu label for viewing battery usage since unplugged -->
+    <!-- Menu label for viewing battery usage since unplugged -->
+    <!-- Menu label for viewing battery usage total -->
+    <!-- Menu label for refreshing with latest usage numbers -->
+    <string name="menu_stats_refresh">Ail-lwytho</string>
+    <!-- TODO: Remove it once the same entry in SettingsLib is translated. -->
+    <!-- Label for kernel threads in battery usage -->
+    <!-- Label for mediaserver process in battery usage -->
+    <!-- Label for dex2oat process in battery usage used for the optimization of one or more apps -->
+    <!-- [CHAR_LIMIT=40] Battery saver: Label for feature, title + menu item -->
+    <string name="battery_saver">Arbedwr batri</string>
+    <!-- [CHAR_LIMIT=40] Battery saver: Title for automatic entry option -->
+    <!-- [CHAR_LIMIT=40] Battery saver: Value for automatic entry option: Never -->
+    <!-- [CHAR_LIMIT=40] Battery saver: Value for automatic entry option: pct% battery -->
+    <!-- [CHAR_LIMIT=40] Battery percentage: Title -->
+    <!-- [CHAR_LIMIT=NONE] Battery percentage: Description for preference -->
+    <string name="battery_percentage_description">Dangos canran batri yn y bar statws</string>
+    <!-- Process Stats strings -->
+    <!-- [CHAR LIMIT=NONE] Activity title for Process Stats summary -->
+    <!-- [CHAR LIMIT=NONE] Activity title summary for Process Stats summary -->
+    <!-- [CHAR LIMIT=NONE] Label for amount of memory use -->
+    <!-- [CHAR LIMIT=NONE] Label for process stats, duration of time the stats are over;
          timeDuration is a duration such as "1h 30m" -->
   <string name="process_stats_total_duration"><xliff:g id="usedRam">%1$s</xliff:g>
         o <xliff:g id="totalRam">%2$s</xliff:g> wedi\'i ddefnyddio dros
@@ -2910,45 +2913,46 @@ Defnyddio\'r gwirydd sillafu hwn?</string>
   <string name="process_stats_total_duration_percentage"><xliff:g id="percent" example="50%">%1$s</xliff:g>
         o RAM wedi\'i ddefnyddio dros
         <xliff:g id="timeDuration">%2$s</xliff:g></string>
-  <!-- [CHAR LIMIT=NONE] Label for process stats, text for stats type -->
-  <string name="process_stats_type_background">Cefndir</string>
-  <!-- [CHAR LIMIT=NONE] Label for process stats, text for stats type -->
-  <!-- [CHAR LIMIT=NONE] Label for process stats, text for stats type -->
-  <!-- [CHAR LIMIT=NONE] Label OS "process" app -->
-  <!-- [CHAR LIMIT=NONE] Name of OS "process" for all native processes -->
-  <!-- [CHAR LIMIT=NONE] Name of OS "process" for all kernel memory -->
-  <string name="process_stats_os_kernel">Cnewyllyn</string>
-  <!-- [CHAR LIMIT=NONE] Name of OS "process" for all zram memory -->
-  <!-- [CHAR LIMIT=NONE] Name of OS "process" for base memory needed for caches -->
-  <!-- [CHAR LIMIT=NONE] Label for item showing details of average RAM use -->
-  <!-- [CHAR LIMIT=NONE] Label for item showing details of average RAM use -->
-  <string name="process_stats_bg_ram_use">Defnydd RAM (cefndir)</string>
-  <!-- [CHAR LIMIT=NONE] Label for item showing percent of time spent running -->
-  <!-- [CHAR LIMIT=NONE] Subtitle for process stats processes list -->
-  <!-- [CHAR LIMIT=NONE] Subtitle for process stats services list -->
-  <string name="services_subtitle">Gwasanaethau</string>
-  <!-- [CHAR LIMIT=NONE] Menu for process stats to select duration of stats to show -->
-  <!-- [CHAR LIMIT=NONE] Activity title for process stats details on overall memory state -->
-  <!-- [CHAR LIMIT=NONE] Subtitle for process stats memory state details for list of memory states -->
-  <!-- [CHAR LIMIT=NONE] Subtitle for process stats memory state details for list of memory use -->
-  <!-- [CHAR LIMIT=NONE] Type of memory use associated with the kernel -->
-  <string name="mem_use_kernel_type">Cnewyllyn</string>
-  <!-- [CHAR LIMIT=NONE] Type of memory use associated with native processes -->
-  <!-- [CHAR LIMIT=NONE] Type of memory use associated with kernel caches -->
-  <string name="mem_use_kernel_cache_type">Storfeydd cnewyll</string>
-  <!-- [CHAR LIMIT=NONE] Type of memory use associated with kernel zram swap -->
-  <!-- [CHAR LIMIT=NONE] Type of memory use that is available/free -->
-  <!-- [CHAR LIMIT=NONE] Total of all memory use -->
-  <!-- [CHAR LIMIT=NONE] Menu for process stats to show 3 hours of data -->
-  <!-- [CHAR LIMIT=NONE] Menu for process stats to show 3 hours of data -->
-  <!-- [CHAR LIMIT=NONE] Menu for process stats to show 3 hours of data -->
-  <!-- [CHAR LIMIT=NONE] Menu for process stats to show 3 hours of data -->
-  <string name="menu_duration_1d">1 diwrnod</string>
-  <!-- [CHAR LIMIT=NONE] Menu for manage apps to control whether system processes are shown -->
-  <string name="menu_show_system">Dangos apiau system</string>
-  <!-- [CHAR LIMIT=NONE] Menu for manage apps to control whether system processes are hidden -->
-  <string name="menu_hide_system">Cuddio apiau system</string>
-  <!-- [CHAR LIMIT=NONE] Menu for process stats to control whether stats are shown
+    <!-- [CHAR LIMIT=NONE] Label for process stats, text for stats type -->
+    <string name="process_stats_type_background">Cefndir</string>
+    <!-- [CHAR LIMIT=NONE] Label for process stats, text for stats type -->
+    <!-- [CHAR LIMIT=NONE] Label for process stats, text for stats type -->
+    <!-- [CHAR LIMIT=NONE] Label OS "process" app -->
+    <!-- [CHAR LIMIT=NONE] Name of OS "process" for all native processes -->
+    <!-- [CHAR LIMIT=NONE] Name of OS "process" for all kernel memory -->
+    <string name="process_stats_os_kernel">Cnewyllyn</string>
+    <!-- [CHAR LIMIT=NONE] Name of OS "process" for all zram memory -->
+    <!-- [CHAR LIMIT=NONE] Name of OS "process" for base memory needed for caches -->
+    <!-- [CHAR LIMIT=NONE] Label for item showing details of average RAM use -->
+    <!-- [CHAR LIMIT=NONE] Label for item showing details of average RAM use -->
+    <string name="process_stats_bg_ram_use">Defnydd RAM (cefndir)</string>
+    <!-- [CHAR LIMIT=NONE] Label for item showing percent of time spent running -->
+    <!-- [CHAR LIMIT=NONE] Subtitle for process stats processes list -->
+    <!-- [CHAR LIMIT=NONE] Subtitle for process stats services list -->
+    <string name="services_subtitle">Gwasanaethau</string>
+    <!-- [CHAR LIMIT=NONE] Menu for process stats to select duration of stats to show -->
+    <!-- [CHAR LIMIT=NONE] Activity title for process stats details on overall memory state -->
+    <!-- [CHAR LIMIT=NONE] Subtitle for process stats memory state details for list of memory states -->
+    <!-- [CHAR LIMIT=NONE] Subtitle for process stats memory state details for list of memory use -->
+    <!-- [CHAR LIMIT=NONE] Type of memory use associated with the kernel -->
+    <string name="mem_use_kernel_type">Cnewyllyn</string>
+    <!-- [CHAR LIMIT=NONE] Type of memory use associated with native processes -->
+    <!-- [CHAR LIMIT=NONE] Type of memory use associated with kernel caches -->
+    <string name="mem_use_kernel_cache_type">Storfeydd cnewyll</string>
+    <!-- [CHAR LIMIT=NONE] Type of memory use associated with kernel zram swap -->
+    <!-- [CHAR LIMIT=NONE] Type of memory use that is available/free -->
+    <!-- [CHAR LIMIT=NONE] Total of all memory use -->
+    <!-- [CHAR LIMIT=NONE] Menu for process stats to show 3 hours of data -->
+    <!-- [CHAR LIMIT=NONE] Menu for process stats to show 3 hours of data -->
+    <!-- [CHAR LIMIT=NONE] Menu for process stats to show 3 hours of data -->
+    <string name="menu_duration_12h">12 awr</string>
+    <!-- [CHAR LIMIT=NONE] Menu for process stats to show 3 hours of data -->
+    <string name="menu_duration_1d">1 diwrnod</string>
+    <!-- [CHAR LIMIT=NONE] Menu for manage apps to control whether system processes are shown -->
+    <string name="menu_show_system">Dangos apiau system</string>
+    <!-- [CHAR LIMIT=NONE] Menu for manage apps to control whether system processes are hidden -->
+    <string name="menu_hide_system">Cuddio apiau system</string>
+    <!-- [CHAR LIMIT=NONE] Menu for process stats to control whether stats are shown
          as percentages-->
   <!-- [CHAR LIMIT=NONE] Menu for process stats to control whether computation should be based
         on Uss (Unique Set Size) instead of Pss (Proportional Set Size) -->
