@@ -3,6 +3,6 @@ This is the "Settings" app repo "o8x" branch from https://github.com/DirtyUnicor
 
 | Feature/s I added: |
 | :---------------------- |
-| - "XiaomiParts" package/build module support ----> https://github.com/NotesOfReality/android_packages_apps_Settings/commit/eb98d746fd80f2d712c57a524f02aff4664bbce4 |
+| - "XiaomiParts" package/build module support ----> https://github.com/NotesOfReality/android_packages_apps_Settings/commit/b7cf488f54c3eb0dddcbdcbb8f793bfa447cef3d |
 
 At 99% percent it's other devs work, I'm too lazy to list them in credits, so if anybody feels anger towards me... Well I first beg your pardon, then give you all the credits you want :P :)
