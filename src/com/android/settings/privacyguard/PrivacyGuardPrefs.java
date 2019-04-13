@@ -58,6 +58,6 @@ public class PrivacyGuardPrefs extends SettingsPreferenceFragment {
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.SCREWD;
+        return MetricsEvent.DIRTYTWEAKS;
     }
 }
