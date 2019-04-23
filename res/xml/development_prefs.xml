@@ -191,13 +191,13 @@
             android:entryValues="@array/default_usb_configuration_values"
             android:defaultValue="@string/default_usb_configuration" />
 
-        <com.dirtyunicorns.tweaks.preferences..GlobalSettingSwitchPreference
+        <com.dirtyunicorns.tweaks.preferences.SystemSettingSwitchPreference
             android:key="show_usb_mode_dialog"
             android:title="@string/show_usb_mode_dialog_title"
             android:summary="@string/show_usb_mode_dialog_summary"
             android:defaultValue="true" />
     
-        <com.dirtyunicorns.tweaks.preferences..GlobalSettingSwitchPreference
+        <com.dirtyunicorns.tweaks.preferences.GlobalSettingSwitchPreference
             android:key="usb_paranoia_connect"
             android:title="@string/usb_paranoia_connect_title"
             android:summary="@string/usb_paranoia_connect_summary"
