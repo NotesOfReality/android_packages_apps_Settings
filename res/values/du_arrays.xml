@@ -89,7 +89,7 @@
         <item>Charging</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
-        <item>MIDI</item>
+        <item>MIDI (Audio Source)</item>
     </string-array>
 
     <!-- USB configuration values for Developer Settings.
