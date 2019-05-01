@@ -89,6 +89,7 @@
         <item>Charging</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
         <item>MIDI (Audio Source)</item>
     </string-array>
 
@@ -104,6 +105,8 @@
         <item>mtp</item>
         <!-- Do not translate. -->
         <item>ptp</item>
+        <!-- Do not translate. -->
+        <item>rndis</item>        
         <!-- Do not translate. -->
         <item>midi</item>
     </string-array>
