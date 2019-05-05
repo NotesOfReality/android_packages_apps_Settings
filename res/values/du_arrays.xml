@@ -90,7 +90,7 @@
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>MIDI (Audio Source)</item>
+        <item>MIDI</item>
     </string-array>
 
     <!-- USB configuration values for Developer Settings.
