@@ -101,11 +101,6 @@
     <!-- Pixel color on sim card -->
     <string name="default_sim_color">Pixel</string>
 
-    <!-- Changelog -->
-    <string name="duchangelog_title">Changelog</string>
-    <string name="duchangelog_summary">Check to see what has changed</string>
-    <string name="duchangelog_settings">Settings</string>
-
     <!-- Developer options toast insulter -->
     <string name="toast_insult_0">Hahaha, n00b!</string>
     <string name="toast_insult_1">What are you doing??</string>

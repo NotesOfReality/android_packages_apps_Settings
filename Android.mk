@@ -19,7 +19,6 @@ LOCAL_USE_AAPT2 := true
 
 LOCAL_SRC_FILES := \
         $(call all-java-files-under, src) \
-        $(call all-java-files-under, ../Changelog/app/src/main/java) \
         $(call all-java-files-under, ../DU-Tweaks/src)
 
 LOCAL_STATIC_ANDROID_LIBRARIES := \
@@ -50,7 +49,6 @@ LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
     frameworks/support/v7/appcompat/res \
     frameworks/support/v7/recyclerview/res \
     frameworks/support/design/res \
-    packages/apps/Changelog/app/src/main/res \
     packages/apps/DU-Tweaks/res
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
@@ -62,7 +60,6 @@ LOCAL_AAPT_FLAGS := --auto-add-overlay \
     --extra-packages android.support.v7.appcompat \
     --extra-packages android.support.v7.recyclerview \
     --extra-packages android.support.design \
-    --extra-packages com.bytehamster.changelog \
     --extra-packages com.dirtyunicorns.tweaks
 
 LOCAL_FULL_LIBS_MANIFEST_FILES := $(LOCAL_PATH)/AndroidManifest-du.xml

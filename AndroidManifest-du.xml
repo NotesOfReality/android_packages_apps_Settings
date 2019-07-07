@@ -78,16 +78,6 @@
         <activity android:name="com.dirtyunicorns.tweaks.fragments.batterylight.NotificationLightSettings" />
         <activity android:name="com.dirtyunicorns.tweaks.fragments.batterylight.BatteryLightSettings" />
 
-        <!-- Changelog -->
-        <activity android:name="com.bytehamster.changelog.Main"
-                  android:taskAffinity=""
-                  android:parentActivityName="Settings"
-                  android:configChanges="orientation|screenLayout|screenSize"
-                  android:label="@string/duchangelog_title" />
-        <activity android:name="com.bytehamster.changelog.Preferences"
-                  android:configChanges="orientation|screenLayout|screenSize"
-                  android:label="@string/duchangelog_settings" />
-
         <!-- Smart Pixels -->
         <activity android:name="Settings$SmartPixelsActivity"
                 android:label="@string/smart_pixels_title">
